@@ -17,3 +17,7 @@ Execute manualmente em **Actions → Atualizar lista CXTV Brasil → Run workflo
 A atualização automática ocorre 4 vezes ao dia.
 
 `descobertos.json` é mantido no repositório para permitir conferir quantos canais foram encontrados em cada página estadual.
+
+
+## Correção V3
+A descoberta dos canais foi reforçada para ler href, data-href, data-url, onclick e referências /tv-ao-vivo/ no HTML/JavaScript renderizado. A paginação Carregar Mais agora usa a quantidade real de referências encontradas, evitando encerrar prematuramente quando os cards não são âncoras tradicionais.

@@ -39,44 +39,89 @@ def is_candidate(u):
     x=u.lower()
     return not any(a in x for a in ('youtube.com/watch','youtu.be/','facebook.com/','instagram.com/','tiktok.com/','cxtv.com.br/tv-ao-vivo/'))
 
+def extract_channel_urls(html):
+    soup=BeautifulSoup(html,'html.parser')
+    found=set()
+    # href, data-* e onclick: a CXTV pode colocar os links em diferentes atributos.
+    for tag in soup.find_all(True):
+        vals=[]
+        for attr in ('href','data-href','data-url','data-link','data-channel','onclick'):
+            v=tag.get(attr)
+            if v: vals.append(str(v))
+        for v in vals:
+            for m in re.findall(r'(?:https?://(?:www\.)?cxtv\.com\.br)?(/tv-ao-vivo/[A-Za-z0-9_-]+)',v,re.I):
+                found.add(canonical(urljoin(BASE,m)))
+    # Fallback direto no HTML/JS renderizado.
+    for m in re.findall(r'(?:https?://(?:www\.)?cxtv\.com\.br)?(/tv-ao-vivo/[A-Za-z0-9_-]+)',html,re.I):
+        found.add(canonical(urljoin(BASE,m)))
+    return sorted(u for u in found if '/tv-ao-vivo/' in u)
+
+def count_channel_refs(html):
+    return len(extract_channel_urls(html))
+
 async def click_more(page):
     stable=0
-    for _ in range(160):
-        links=await page.locator('a[href*="/tv-ao-vivo/"]').count()
-        btn=page.get_by_text('Carregar Mais',exact=True)
-        if not await btn.count(): break
+    last=0
+    for _ in range(180):
+        html=await page.content(); current=count_channel_refs(html)
+        if current>last: last=current; stable=0
+        else: stable+=1
+        loc=page.get_by_text('Carregar Mais',exact=True)
+        if not await loc.count():
+            # algumas versões do site usam botão/link com texto contendo espaços
+            loc=page.locator('button, a').filter(has_text=re.compile(r'Carregar Mais',re.I))
+        if not await loc.count(): break
         try:
-            await btn.last.scroll_into_view_if_needed(timeout=2500); await btn.last.click(timeout=6000); await page.wait_for_timeout(1200)
-            new=await page.locator('a[href*="/tv-ao-vivo/"]').count()
-            stable=stable+1 if new<=links else 0
-            if stable>=4: break
-        except Exception: break
+            await loc.last.scroll_into_view_if_needed(timeout=3000)
+            await loc.last.click(timeout=7000)
+            await page.wait_for_timeout(1600)
+            new=count_channel_refs(await page.content())
+            if new<=current: stable+=1
+            else: stable=0; last=new
+            if stable>=5: break
+        except Exception:
+            break
 
 async def discover_page(page,url):
     try:
-        await page.goto(url,wait_until='domcontentloaded',timeout=90000); await page.wait_for_timeout(1800); await click_more(page)
-        hrefs=await page.locator('a[href*="/tv-ao-vivo/"]').evaluate_all('(els)=>els.map(e=>e.href)')
-        return [canonical(h) for h in hrefs if '/tv-ao-vivo/' in canonical(h)]
+        await page.goto(url,wait_until='domcontentloaded',timeout=90000)
+        await page.wait_for_timeout(2200)
+        await click_more(page)
+        html=await page.content()
+        hrefs=extract_channel_urls(html)
+        # Última tentativa usando o DOM, caso o HTML tenha sido alterado por JS.
+        try:
+            dom=await page.locator('a').evaluate_all('els=>els.map(e=>[e.href,e.getAttribute("data-href"),e.getAttribute("data-url"),e.getAttribute("onclick")]).flat().filter(Boolean)')
+            for h in dom:
+                hrefs.append(canonical(urljoin(BASE,str(h)))) if '/tv-ao-vivo/' in str(h) else None
+        except Exception: pass
+        return sorted(set(h for h in hrefs if '/tv-ao-vivo/' in h))
     except Exception as e:
         print('Falha descoberta',url,e); return []
 
 async def discover(page):
-    # Primeiro lê a página oficial de estados. Assim não dependemos de uma lista fixa de UF.
     state_urls=[]
     try:
-        await page.goto(ESTADOS_URL,wait_until='domcontentloaded',timeout=90000); await page.wait_for_timeout(1200)
-        hs=await page.locator('a').evaluate_all('(els)=>els.map(e=>e.href)')
-        for h in hs:
-            h=canonical(h)
-            if re.fullmatch(r'https://www\.cxtv\.com\.br/tv/estados/[a-z]{2}',h): state_urls.append(h)
+        await page.goto(ESTADOS_URL,wait_until='domcontentloaded',timeout=90000)
+        await page.wait_for_timeout(1800)
+        html=await page.content()
+        soup=BeautifulSoup(html,'html.parser')
+        for tag in soup.find_all(True):
+            for attr in ('href','data-href','data-url'):
+                v=tag.get(attr)
+                if v:
+                    h=canonical(urljoin(BASE,str(v)))
+                    if re.fullmatch(r'https://www\.cxtv\.com\.br/tv/estados/[a-z]{2}',h,re.I): state_urls.append(h.lower())
+        for h in re.findall(r'(?:https?://(?:www\.)?cxtv\.com\.br)?(/tv/estados/[a-z]{2})',html,re.I):
+            state_urls.append(canonical(urljoin(BASE,h)).lower())
     except Exception as e: print('Falha na página de estados:',e)
-    state_urls=sorted(set(state_urls))
     if not state_urls:
         state_urls=[f'{BASE}/tv/estados/{uf}' for uf in 'ac al ap am ba ce df es go ma mt ms mg pa pb pr pe pi rj rn rs ro sc sp se to'.split()]
+    state_urls=sorted(set(state_urls))
     pages=[BRASIL_URL]+state_urls
     allurls=[]; counts={}
     for u in pages:
-        found=await discover_page(page,u); counts[u]=len(found); allurls.extend(found); print(f'Descobertos {len(found)} em {u}')
+        found=await discover_page(page,u); counts[u]=len(found); allurls.extend(found); print(f'Descobertos {len(found)} em {u}',flush=True)
     seen=set(); unique=[]
     for u in allurls:
         if u and u not in seen: seen.add(u); unique.append(u)
