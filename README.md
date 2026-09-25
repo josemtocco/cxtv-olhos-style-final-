@@ -65,3 +65,10 @@ Substitua `SEU-USUARIO` e `SEU-REPOSITORIO` pelos dados do seu GitHub.
 Se nenhum stream válido for encontrado, o gerador encerra com erro e não cria uma nova playlist vazia. Assim, a última lista válida permanece no repositório.
 
 A pasta `__pycache__` não deve ser enviada ao GitHub e já está incluída no `.gitignore`.
+
+
+## Canais regionais
+
+A descoberta agora consulta a página geral do Brasil **e as páginas individuais dos 26 estados + Distrito Federal**. Isso é importante porque a CXTV mantém páginas estaduais com canais regionais que podem não aparecer no primeiro conjunto carregado da página Brasil. A lista final é unificada e deduplicada antes dos testes de stream.
+
+A CXTV disponibiliza uma página de estados com a quantidade de canais por estado e páginas específicas, por exemplo Rio Grande do Sul e São Paulo. O gerador consulta essas páginas automaticamente.

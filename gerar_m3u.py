@@ -8,6 +8,8 @@ from playwright.async_api import async_playwright, TimeoutError as PlaywrightTim
 
 BASE = 'https://www.cxtv.com.br'
 BRASIL_URL = f'{BASE}/tv/paises/tvs-brasil'
+ESTADOS_URL = f'{BASE}/tv/estados'
+ESTADOS = ['ac','al','ap','am','ba','ce','df','es','go','ma','mt','ms','mg','pa','pb','pr','pe','pi','rj','rn','rs','ro','sc','sp','se','to']
 OUT = Path('cxtvbrasil.m3u')
 STATUS = Path('status.json')
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
@@ -63,36 +65,54 @@ def is_candidate_stream(u):
     blocked = ('youtube.com/watch','youtu.be/','facebook.com/','instagram.com/','tiktok.com/','cxtv.com.br/tv-ao-vivo/')
     return not any(x in low for x in blocked)
 
-async def discover(page):
-    await page.goto(BRASIL_URL, wait_until='domcontentloaded', timeout=90000)
-    await page.wait_for_timeout(2500)
-    # Load all available cards. CXTV uses a Carregar Mais button.
+async def discover_page(page, page_url):
+    """Descobre todos os canais de uma página CXTV, incluindo 'Carregar Mais'."""
+    try:
+        await page.goto(page_url, wait_until='domcontentloaded', timeout=90000)
+        await page.wait_for_timeout(2000)
+    except Exception:
+        return []
+
     stable = 0
-    for _ in range(80):
+    for _ in range(120):
         links = await page.locator('a[href*="/tv-ao-vivo/"]').count()
         buttons = page.get_by_text('Carregar Mais', exact=True)
-        if await buttons.count():
-            try:
-                await buttons.last.click(timeout=3000)
-                await page.wait_for_timeout(900)
-                new_links = await page.locator('a[href*="/tv-ao-vivo/"]').count()
-                if new_links <= links:
-                    stable += 1
-                else:
-                    stable = 0
-                if stable >= 3:
-                    break
-            except Exception:
-                break
-        else:
+        if not await buttons.count():
             break
+        try:
+            await buttons.last.scroll_into_view_if_needed(timeout=2000)
+            await buttons.last.click(timeout=5000)
+            await page.wait_for_timeout(1200)
+            new_links = await page.locator('a[href*="/tv-ao-vivo/"]').count()
+            if new_links <= links:
+                stable += 1
+            else:
+                stable = 0
+            if stable >= 3:
+                break
+        except Exception:
+            break
+
     hrefs = await page.locator('a[href*="/tv-ao-vivo/"]').evaluate_all('(els)=>els.map(e=>e.href)')
-    seen=[]
-    for h in hrefs:
-        h=canonical(h)
-        if '/tv-ao-vivo/' in h and h not in seen:
-            seen.append(h)
-    return seen
+    return [canonical(h) for h in hrefs if '/tv-ao-vivo/' in canonical(h)]
+
+async def discover(page):
+    """Une Brasil + todos os estados. Assim canais regionais não ficam de fora."""
+    urls = []
+    pages = [BRASIL_URL] + [f'{BASE}/tv/estados/{uf}' for uf in ESTADOS]
+    for page_url in pages:
+        found = await discover_page(page, page_url)
+        print(f'Descobertos {len(found)} canais em {page_url}')
+        urls.extend(found)
+
+    # Algumas páginas estaduais podem ter canais que também aparecem na página Brasil.
+    seen = set()
+    unique = []
+    for u in urls:
+        if u and u not in seen:
+            seen.add(u)
+            unique.append(u)
+    return unique
 
 async def inspect(browser, url, sem):
     async with sem:
