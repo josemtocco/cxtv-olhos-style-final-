@@ -1,23 +1,23 @@
-# CXTV Brasil — modelo Olhos na TV
+# CXTV Brasil — todos os canais e regionais (V4)
 
-Gerador automático de M3U para SS IPTV.
+Projeto no mesmo modelo do Olhos na TV para gerar `cxtvbrasil.m3u` automaticamente a partir da CXTV.
 
-## O que esta versão corrige
-- Consulta a página Brasil da CXTV.
-- Descobre automaticamente as páginas oficiais de todos os estados na página `tv/estados`.
-- Varre todos os canais de cada estado, incluindo regionais.
-- Usa a página individual para obter o nome correto.
-- Tenta ativar players e visitar iframes para capturar streams.
-- Valida playlist HLS e pelo menos um segmento real.
-- Remove streams inválidos e duplicados.
-- Gera `cxtvbrasil.m3u`, `status.json` e `descobertos.json`.
+## Correção principal da V4
 
-## GitHub Actions
-Execute manualmente em **Actions → Atualizar lista CXTV Brasil → Run workflow**.
-A atualização automática ocorre 4 vezes ao dia.
+A versão anterior encontrava os links `/tv-ao-vivo/...`, mas depois os descartava por engano no filtro de candidatos. Isso fazia o log mostrar `Descobertos 0` para Brasil e para todos os estados.
 
-`descobertos.json` é mantido no repositório para permitir conferir quantos canais foram encontrados em cada página estadual.
+A V4 corrige esse filtro e também usa diretamente `a[href*="/tv-ao-vivo/"]` no DOM.
 
+## Fontes consultadas
 
-## Correção V3
-A descoberta dos canais foi reforçada para ler href, data-href, data-url, onclick e referências /tv-ao-vivo/ no HTML/JavaScript renderizado. A paginação Carregar Mais agora usa a quantidade real de referências encontradas, evitando encerrar prematuramente quando os cards não são âncoras tradicionais.
+- Página Brasil: https://www.cxtv.com.br/tv/paises/tvs-brasil
+- Página de estados: https://www.cxtv.com.br/tv/estados
+- Todas as UFs brasileiras, com fallback fixo caso a página de estados não carregue.
+
+## Saídas
+
+- `cxtvbrasil.m3u`
+- `status.json`
+- `descobertos.json`
+
+Somente streams que passam pela validação entram na M3U. Se nenhum canal ativo for validado, o workflow falha e preserva a lista anterior.

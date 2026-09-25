@@ -37,7 +37,7 @@ def categories(html):
 def is_candidate(u):
     if not u or not u.startswith(('http://','https://')): return False
     x=u.lower()
-    return not any(a in x for a in ('youtube.com/watch','youtu.be/','facebook.com/','instagram.com/','tiktok.com/','cxtv.com.br/tv-ao-vivo/'))
+    return not any(a in x for a in ('youtube.com/watch','youtu.be/','facebook.com/','instagram.com/','tiktok.com/',))
 
 def extract_channel_urls(html):
     soup=BeautifulSoup(html,'html.parser')
@@ -89,11 +89,15 @@ async def discover_page(page,url):
         await click_more(page)
         html=await page.content()
         hrefs=extract_channel_urls(html)
-        # Última tentativa usando o DOM, caso o HTML tenha sido alterado por JS.
+        # Última tentativa usando o DOM, inclusive seletor direto dos cards da CXTV.
         try:
-            dom=await page.locator('a').evaluate_all('els=>els.map(e=>[e.href,e.getAttribute("data-href"),e.getAttribute("data-url"),e.getAttribute("onclick")]).flat().filter(Boolean)')
+            dom=await page.locator('a[href*="/tv-ao-vivo/"]').evaluate_all('(els)=>els.map(e=>e.href)')
+            hrefs.extend(canonical(str(h)) for h in dom)
+        except Exception: pass
+        try:
+            dom=await page.locator('a').evaluate_all('(els)=>els.map(e=>[e.href,e.getAttribute("data-href"),e.getAttribute("data-url"),e.getAttribute("onclick")]).flat().filter(Boolean)')
             for h in dom:
-                hrefs.append(canonical(urljoin(BASE,str(h)))) if '/tv-ao-vivo/' in str(h) else None
+                if '/tv-ao-vivo/' in str(h): hrefs.append(canonical(urljoin(BASE,str(h))))
         except Exception: pass
         return sorted(set(h for h in hrefs if '/tv-ao-vivo/' in h))
     except Exception as e:
