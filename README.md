@@ -1,23 +1,67 @@
-# CXTV Brasil — todos os canais e regionais (V4)
+# CXTV Brasil — Lista M3U
 
-Projeto no mesmo modelo do Olhos na TV para gerar `cxtvbrasil.m3u` automaticamente a partir da CXTV.
+Projeto no mesmo modelo do **Olhos na TV**: um único gerador Python na raiz do repositório, GitHub Actions para atualização automática e a playlist M3U publicada diretamente no próprio GitHub.
 
-## Correção principal da V4
+## Estrutura
 
-A versão anterior encontrava os links `/tv-ao-vivo/...`, mas depois os descartava por engano no filtro de candidatos. Isso fazia o log mostrar `Descobertos 0` para Brasil e para todos os estados.
+```text
+cxtvbrasil/
+├── .github/
+│   └── workflows/
+│       └── atualizar.yml
+├── gerar_m3u.py
+├── requirements.txt
+├── cxtvbrasil.m3u
+├── README.md
+└── .gitignore
+```
 
-A V4 corrige esse filtro e também usa diretamente `a[href*="/tv-ao-vivo/"]` no DOM.
+## O que o gerador faz
 
-## Fontes consultadas
+- consulta a página de TVs do Brasil da CXTV;
+- carrega a listagem dinâmica usando `Carregar Mais`;
+- visita a página individual de cada canal;
+- usa o nome exibido na página individual como `tvg-name`;
+- identifica as categorias do canal;
+- permite que o mesmo canal apareça em mais de uma categoria;
+- captura URLs de reprodução solicitadas pelo player;
+- rejeita URLs de páginas de YouTube, Facebook, Instagram, TikTok e da própria página do canal;
+- testa os streams antes de incluí-los;
+- para HLS, valida a playlist e pelo menos um segmento real;
+- remove duplicidades;
+- gera somente entradas com stream validado;
+- grava `cxtvbrasil.m3u` na raiz do repositório.
 
-- Página Brasil: https://www.cxtv.com.br/tv/paises/tvs-brasil
-- Página de estados: https://www.cxtv.com.br/tv/estados
-- Todas as UFs brasileiras, com fallback fixo caso a página de estados não carregue.
+## Formato M3U
 
-## Saídas
+Cada entrada usa:
 
-- `cxtvbrasil.m3u`
-- `status.json`
-- `descobertos.json`
+- `tvg-id`
+- `tvg-name`
+- `tvg-country="BR"`
+- `tvg-language="Português"`
+- `group-title`
 
-Somente streams que passam pela validação entram na M3U. Se nenhum canal ativo for validado, o workflow falha e preserva a lista anterior.
+## Atualização automática
+
+O GitHub Actions executa o gerador **4 vezes por dia** e também permite execução manual em:
+
+**Actions → Atualizar lista CXTV Brasil → Run workflow**
+
+Também há execução automática quando o `gerar_m3u.py`, `requirements.txt` ou o workflow é alterado.
+
+## Playlist para SS IPTV
+
+Depois da primeira execução, o arquivo fica disponível pela URL Raw do seu repositório, no formato:
+
+```text
+https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/cxtvbrasil.m3u
+```
+
+Substitua `SEU-USUARIO` e `SEU-REPOSITORIO` pelos dados do seu GitHub.
+
+## Importante
+
+Se nenhum stream válido for encontrado, o gerador encerra com erro e não cria uma nova playlist vazia. Assim, a última lista válida permanece no repositório.
+
+A pasta `__pycache__` não deve ser enviada ao GitHub e já está incluída no `.gitignore`.
