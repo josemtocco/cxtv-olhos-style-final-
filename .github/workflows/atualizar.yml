@@ -2,13 +2,13 @@ name: Atualizar lista CXTV Brasil
 
 on:
   schedule:
-    - cron: "0 0,6,12,18 * * *"
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
   push:
     paths:
-      - "gerar_m3u.py"
-      - "requirements.txt"
-      - ".github/workflows/atualizar.yml"
+      - 'gerar_m3u.py'
+      - 'requirements.txt'
+      - '.github/workflows/atualizar.yml'
 
 permissions:
   contents: write
@@ -16,29 +16,35 @@ permissions:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 300
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Baixar projeto
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
+
       - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
-      - name: Gerar lista
+
+      - name: Gerar lista M3U
         run: python gerar_m3u.py
-      - name: Validar arquivos
+
+      - name: Validar lista M3U
         run: |
           test -s cxtvbrasil.m3u
           grep -q '^#EXTM3U' cxtvbrasil.m3u
           test "$(grep -c '^#EXTINF' cxtvbrasil.m3u)" -gt 0
-          test -s descobertos.json
+
       - name: Salvar alterações
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add cxtvbrasil.m3u status.json descobertos.json
+          git add cxtvbrasil.m3u
           git diff --cached --quiet || git commit -m 'Atualizar lista CXTV Brasil'
           git push
