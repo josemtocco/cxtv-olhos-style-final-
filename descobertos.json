@@ -1,0 +1,245 @@
+{
+  "paginas": {
+    "https://www.cxtv.com.br/tv/paises/tvs-brasil": 20,
+    "https://www.cxtv.com.br/tv/estados/ac": 0,
+    "https://www.cxtv.com.br/tv/estados/al": 0,
+    "https://www.cxtv.com.br/tv/estados/ap": 0,
+    "https://www.cxtv.com.br/tv/estados/am": 0,
+    "https://www.cxtv.com.br/tv/estados/ba": 0,
+    "https://www.cxtv.com.br/tv/estados/ce": 0,
+    "https://www.cxtv.com.br/tv/estados/df": 0,
+    "https://www.cxtv.com.br/tv/estados/es": 0,
+    "https://www.cxtv.com.br/tv/estados/go": 0,
+    "https://www.cxtv.com.br/tv/estados/ma": 0,
+    "https://www.cxtv.com.br/tv/estados/mt": 0,
+    "https://www.cxtv.com.br/tv/estados/ms": 0,
+    "https://www.cxtv.com.br/tv/estados/mg": 0,
+    "https://www.cxtv.com.br/tv/estados/pa": 0,
+    "https://www.cxtv.com.br/tv/estados/pb": 0,
+    "https://www.cxtv.com.br/tv/estados/pr": 0,
+    "https://www.cxtv.com.br/tv/estados/pe": 0,
+    "https://www.cxtv.com.br/tv/estados/pi": 0,
+    "https://www.cxtv.com.br/tv/estados/rj": 0,
+    "https://www.cxtv.com.br/tv/estados/rn": 0,
+    "https://www.cxtv.com.br/tv/estados/rs": 0,
+    "https://www.cxtv.com.br/tv/estados/ro": 0,
+    "https://www.cxtv.com.br/tv/estados/sc": 0,
+    "https://www.cxtv.com.br/tv/estados/sp": 0,
+    "https://www.cxtv.com.br/tv/estados/se": 0,
+    "https://www.cxtv.com.br/tv/estados/to": 0
+  },
+  "diagnostico": [
+    {
+      "url": "https://www.cxtv.com.br/tv/paises/tvs-brasil",
+      "status": 403,
+      "bytes": 5679,
+      "fonte": "browser",
+      "descobertos": 20
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ac",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/al",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ap",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/am",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ba",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ce",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/df",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/es",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/go",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ma",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/mt",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ms",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/mg",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/pa",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/pb",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/pr",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/pe",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/pi",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/rj",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/rn",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/rs",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/ro",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/sc",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/sp",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/se",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    },
+    {
+      "url": "https://www.cxtv.com.br/tv/estados/to",
+      "status": 403,
+      "bytes": 5658,
+      "fonte": "browser",
+      "descobertos": 0
+    }
+  ],
+  "canais_unicos": 20,
+  "canais": [
+    "https://www.cxtv.com.br/tv-ao-vivo/awcchannel",
+    "https://www.cxtv.com.br/tv-ao-vivo/caze-tv-br",
+    "https://www.cxtv.com.br/tv-ao-vivo/filmes-online",
+    "https://www.cxtv.com.br/tv-ao-vivo/gln-tv",
+    "https://www.cxtv.com.br/tv-ao-vivo/multi-canais-aovivo",
+    "https://www.cxtv.com.br/tv-ao-vivo/record-news",
+    "https://www.cxtv.com.br/tv-ao-vivo/rede-brasil-de-televisao-rbtv",
+    "https://www.cxtv.com.br/tv-ao-vivo/rede-clone",
+    "https://www.cxtv.com.br/tv-ao-vivo/rede-tv",
+    "https://www.cxtv.com.br/tv-ao-vivo/retro-cartoon",
+    "https://www.cxtv.com.br/tv-ao-vivo/sbt",
+    "https://www.cxtv.com.br/tv-ao-vivo/sony-one-cinema",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-aracati-hd",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-brasil",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-classicos",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-cultura",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-gazeta",
+    "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cine",
+    "https://www.cxtv.com.br/tv-ao-vivo/web-tv-classicos-do-cinema",
+    "https://www.cxtv.com.br/tv-ao-vivo/web-tv-xtreme"
+  ]
+}
