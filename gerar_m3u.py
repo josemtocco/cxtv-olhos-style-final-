@@ -70,33 +70,58 @@ async def fetch_page(session, url):
         print(f'HTTP falhou {url}: {e}', flush=True)
         return 0,'',url
 
-async def fetch_jina(session, url):
-    # A CXTV pode responder 403 ao GitHub Actions. O Reader da Jina pode
-    # recuperar a página renderizada sem alterar o conteúdo do site.
+async def fetch_jina(session, url, expand=False):
+    """Busca a listagem pela Jina.
+
+    V7 usa dois modos: GET normal e, para páginas estaduais, POST com JavaScript
+    que clica repetidamente em "Carregar Mais" antes da extração. Isso é
+    importante porque a CXTV mostra apenas a primeira página de canais no HTML
+    inicial e carrega os demais dinamicamente.
+    """
     reader=JINA+url
     headers={
         'User-Agent':UA,
         'Accept':'application/json',
         'X-Engine':'browser',
-        'X-Timeout':'20',
+        'X-Timeout':'60',
+        'X-Locale':'pt-BR',
         'X-With-Links-Summary':'all',
         'X-Retain-Links':'all',
-        'X-Locale':'pt-BR',
+        'X-No-Cache':'true',
     }
     try:
-        async with session.get(reader,headers=headers,timeout=aiohttp.ClientTimeout(total=45)) as r:
-            raw=await r.text(errors='ignore')
-            if r.status != 200:
-                print(f'Jina falhou {url}: status={r.status} bytes={len(raw)}',flush=True)
-                return 0,''
-            try:
-                obj=json.loads(raw)
-                body=obj.get('content','') if isinstance(obj,dict) else raw
-            except Exception:
-                body=raw
-            return 200, body
+        if expand:
+            js="""
+            async () => {
+              const sleep = ms => new Promise(r => setTimeout(r, ms));
+              for (let i = 0; i < 120; i++) {
+                const buttons = [...document.querySelectorAll('button, a, input, [role="button"]')];
+                const b = buttons.find(el => (el.innerText || el.value || '').trim().toLowerCase().includes('carregar mais'));
+                if (!b) break;
+                b.scrollIntoView({block:'center'});
+                b.click();
+                await sleep(1600);
+              }
+              await sleep(2000);
+            }
+            """
+            payload={'url':url,'js':js}
+            async with session.post(reader,headers=headers,json=payload,timeout=aiohttp.ClientTimeout(total=90)) as r:
+                raw=await r.text(errors='ignore')
+        else:
+            async with session.get(reader,headers=headers,timeout=aiohttp.ClientTimeout(total=75)) as r:
+                raw=await r.text(errors='ignore')
+        if r.status != 200:
+            print(f'Jina falhou {url}: status={r.status} bytes={len(raw)} expand={expand}',flush=True)
+            return 0,''
+        try:
+            obj=json.loads(raw)
+            body=obj.get('content','') if isinstance(obj,dict) else raw
+        except Exception:
+            body=raw
+        return 200, body
     except Exception as e:
-        print(f'Jina falhou {url}: {e}',flush=True)
+        print(f'Jina falhou {url}: {e} expand={expand}',flush=True)
         return 0,''
 
 async def click_more(page):
@@ -143,27 +168,41 @@ async def discover(page):
     last_jina=0.0
     async with aiohttp.ClientSession(timeout=timeout) as session:
         for u in pages:
+            is_state='/tv/estados/' in u
             status,html,final=await fetch_page(session,u)
             found=extract_channel_urls(html) if html else []
             source='http'
             if found:
                 print(f'HTTP descobriu {len(found)} em {u}',flush=True)
             elif status == 403:
-                # Anonymous Jina Reader is rate-limited to about 20 RPM;
-                # space requests so the fallback remains reliable.
                 now=asyncio.get_running_loop().time()
-                wait=max(0.0,3.2-(now-last_jina))
+                wait=max(0.0,3.3-(now-last_jina))
                 if wait: await asyncio.sleep(wait)
-                jstatus,jhtml=await fetch_jina(session,u)
+                jstatus,jhtml=await fetch_jina(session,u,expand=False)
                 last_jina=asyncio.get_running_loop().time()
                 found=extract_channel_urls(jhtml) if jhtml else []
                 source='jina'
-                print(f'Jina descobriu {len(found)} em {u}',flush=True)
+                print(f'Jina inicial descobriu {len(found)} em {u}',flush=True)
             else:
                 print(f'HTTP descobriu 0 em {u} (status={status}, bytes={len(html)})',flush=True)
 
-            # Browser remains a second fallback, especially useful when the
-            # listing requires the dynamic Carregar Mais button.
+            # A listagem estadual é paginada por "Carregar Mais". Se o GET
+            # trouxer somente a primeira leva (ou nada), peça à Jina para
+            # executar JS e clicar no botão até que ele desapareça.
+            if is_state and len(found) <= 20:
+                now=asyncio.get_running_loop().time()
+                wait=max(0.0,3.3-(now-last_jina))
+                if wait: await asyncio.sleep(wait)
+                jstatus,jhtml=await fetch_jina(session,u,expand=True)
+                last_jina=asyncio.get_running_loop().time()
+                expanded=extract_channel_urls(jhtml) if jhtml else []
+                if len(expanded)>len(found):
+                    found=expanded
+                    source='jina-js'
+                print(f'Jina JS descobriu {len(expanded)} em {u}',flush=True)
+
+            # Browser remains a final fallback. Unlike V6, it is also used
+            # when Jina returned a tiny/empty result, not only on HTTP 0.
             if not found:
                 found,bh=await browser_discover(page,u)
                 if bh and len(bh)>1000:

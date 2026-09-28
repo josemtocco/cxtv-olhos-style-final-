@@ -1,40 +1,38 @@
-# CXTV Brasil — modelo Olhos na TV
+# CXTV Brasil — Regionais V7
 
-Gerador automático de M3U para os canais de TV do Brasil cadastrados na CXTV, incluindo as páginas estaduais.
+Gerador M3U para o CXTV no mesmo conceito do projeto Olhos na TV.
 
 ## O que esta versão corrige
 
-- Descoberta por HTTP antes do Chromium, evitando depender do modo headless para localizar os cards.
-- Fallback para Playwright e botão **Carregar Mais**.
-- Consulta a página Brasil e as 27 UFs.
-- Deduplicação das páginas de canais.
-- Nome obtido da página individual.
-- Categorias preservadas.
-- Captura de streams HLS do player e de iframes.
-- Validação de playlist HLS e de segmentos reais.
-- Somente streams validados entram em `cxtvbrasil.m3u`.
-- `descobertos.json` registra quantos canais foram encontrados por página.
-- Em falhas, o workflow salva um artefato `diagnostico-cxtv` com `descobertos.json` e, quando disponível, `cxtv_debug.html`.
-- Atualização automática a cada 6 horas e execução manual.
+A versão anterior conseguia acessar a listagem nacional, mas as páginas estaduais retornavam HTTP 403 no GitHub Actions. Por isso `descobertos.json` mostrava `20` canais no Brasil e `0` nos estados.
+
+A V7 muda a descoberta das páginas estaduais:
+
+- tenta HTTP direto;
+- usa Jina Reader quando o CXTV responde 403;
+- para cada estado, quando há no máximo 20 canais, usa a API POST da Jina com JavaScript para clicar repetidamente em **Carregar Mais**;
+- só depois usa o navegador Playwright como último fallback;
+- mantém a correção do validador HLS da V6;
+- gera `descobertos.json` com a quantidade descoberta por estado;
+- não substitui silenciosamente a M3U por uma lista vazia.
+
+A CXTV atualmente exibe contagens estaduais bem maiores que 20, por exemplo RS 54, SC 39, PB 24 e SP 212; as páginas públicas também mostram o botão `Carregar Mais`. Portanto, uma descoberta limitada aos 20 primeiros não atende ao objetivo de incluir os canais regionais. 
 
 ## Arquivos
 
-- `gerar_m3u.py`
-- `requirements.txt`
-- `.github/workflows/atualizar.yml`
-- `cxtvbrasil.m3u`
-- `status.json`
-- `descobertos.json`
+- `gerar_m3u.py` — gerador, descoberta, captura e teste dos streams.
+- `requirements.txt` — dependências Python.
+- `.github/workflows/atualizar.yml` — execução automática a cada 6 horas.
+- `cxtvbrasil.m3u` — playlist gerada.
+- `status.json` — resumo da execução.
+- `descobertos.json` — diagnóstico dos canais descobertos por página.
 
-A CXTV mantém páginas estaduais separadas; por exemplo, a página do Rio Grande do Sul lista 54 canais atualmente. O gerador consulta essas páginas além da listagem Brasil.
+## GitHub Actions
 
+O workflow executa automaticamente nos horários configurados e também pode ser iniciado manualmente em **Actions → Atualizar CXTV Brasil → Run workflow**.
 
-## V6 — correções importantes
+A playlist final contém apenas streams que passaram pela validação HLS configurada no gerador.
 
-- Corrige o erro `TypeError: 'async_generator' object is not iterable` na validação HLS.
-- Corrige o compartilhamento do conjunto `seen` durante a validação recursiva de variantes HLS.
-- Quando a CXTV responde `403` ao GitHub Actions, tenta primeiro a descoberta pelo Jina Reader e só depois pelo Chromium.
-- O diagnóstico registra a fonte usada (`http`, `jina` ou `browser`) em `descobertos.json`.
-- O job tem limite de 30 minutos para acomodar a consulta das páginas estaduais e a validação dos streams.
+## Observação
 
-A CXTV continua mantendo páginas estaduais separadas; a página de estados atualmente informa 54 canais no RS, 212 em SP, 63 em MG e 44 no PR.
+A descoberta depende da disponibilidade do CXTV para o serviço externo usado como fallback. Se o CXTV alterar o mecanismo do botão `Carregar Mais`, o arquivo `descobertos.json` mostrará a quantidade encontrada em cada estado para facilitar a manutenção.
