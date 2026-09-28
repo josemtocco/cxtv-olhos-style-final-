@@ -36,6 +36,8 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Gerar lista
+        id: gerar
+        continue-on-error: true
         run: python gerar_m3u.py
 
       - name: Upload diagnóstico
@@ -46,19 +48,36 @@ jobs:
           path: |
             descobertos.json
             cxtv_debug.html
-          if-no-files-found: ignore
-          retention-days: 7
+          if-no-files-found: warn
+          retention-days: 14
 
-      - name: Validar arquivos
+      - name: Commit diagnóstico mesmo se a geração falhar
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add descobertos.json cxtv_debug.html || true
+          git diff --cached --quiet || git commit -m 'Atualizar diagnostico CXTV'
+          git push || true
+
+      - name: Validar lista gerada
+        if: steps.gerar.outcome == 'success'
         run: |
           test -f cxtvbrasil.m3u
           grep -q '^#EXTM3U' cxtvbrasil.m3u
           test "$(grep -c '^#EXTINF' cxtvbrasil.m3u)" -gt 0
 
-      - name: Commit e push
+      - name: Commit lista M3U
+        if: steps.gerar.outcome == 'success'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add cxtvbrasil.m3u status.json descobertos.json
           git diff --cached --quiet || git commit -m 'Atualizar lista CXTV Brasil'
           git push
+
+      - name: Falhar se a geração não terminou
+        if: steps.gerar.outcome != 'success'
+        run: |
+          echo 'A geração da lista falhou. O descobertos.json foi salvo para diagnóstico.'
+          exit 1
