@@ -27,3 +27,14 @@ Gerador automático de M3U para os canais de TV do Brasil cadastrados na CXTV, i
 - `descobertos.json`
 
 A CXTV mantém páginas estaduais separadas; por exemplo, a página do Rio Grande do Sul lista 54 canais atualmente. O gerador consulta essas páginas além da listagem Brasil.
+
+
+## V6 — correções importantes
+
+- Corrige o erro `TypeError: 'async_generator' object is not iterable` na validação HLS.
+- Corrige o compartilhamento do conjunto `seen` durante a validação recursiva de variantes HLS.
+- Quando a CXTV responde `403` ao GitHub Actions, tenta primeiro a descoberta pelo Jina Reader e só depois pelo Chromium.
+- O diagnóstico registra a fonte usada (`http`, `jina` ou `browser`) em `descobertos.json`.
+- O job tem limite de 30 minutos para acomodar a consulta das páginas estaduais e a validação dos streams.
+
+A CXTV continua mantendo páginas estaduais separadas; a página de estados atualmente informa 54 canais no RS, 212 em SP, 63 em MG e 44 no PR.

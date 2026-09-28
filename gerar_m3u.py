@@ -10,6 +10,7 @@ BRASIL_URL=f'{BASE}/tv/paises/tvs-brasil'
 ESTADOS_URL=f'{BASE}/tv/estados'
 OUT=Path('cxtvbrasil.m3u'); STATUS=Path('status.json'); DISC=Path('descobertos.json')
 UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
+JINA='https://r.jina.ai/'
 
 def clean(s): return re.sub(r'\s+',' ',s or '').strip()
 def canonical(u):
@@ -69,6 +70,35 @@ async def fetch_page(session, url):
         print(f'HTTP falhou {url}: {e}', flush=True)
         return 0,'',url
 
+async def fetch_jina(session, url):
+    # A CXTV pode responder 403 ao GitHub Actions. O Reader da Jina pode
+    # recuperar a página renderizada sem alterar o conteúdo do site.
+    reader=JINA+url
+    headers={
+        'User-Agent':UA,
+        'Accept':'application/json',
+        'X-Engine':'browser',
+        'X-Timeout':'20',
+        'X-With-Links-Summary':'all',
+        'X-Retain-Links':'all',
+        'X-Locale':'pt-BR',
+    }
+    try:
+        async with session.get(reader,headers=headers,timeout=aiohttp.ClientTimeout(total=45)) as r:
+            raw=await r.text(errors='ignore')
+            if r.status != 200:
+                print(f'Jina falhou {url}: status={r.status} bytes={len(raw)}',flush=True)
+                return 0,''
+            try:
+                obj=json.loads(raw)
+                body=obj.get('content','') if isinstance(obj,dict) else raw
+            except Exception:
+                body=raw
+            return 200, body
+    except Exception as e:
+        print(f'Jina falhou {url}: {e}',flush=True)
+        return 0,''
+
 async def click_more(page):
     last=0
     stable=0
@@ -107,28 +137,42 @@ async def browser_discover(page,url):
         return [],''
 
 async def discover(page):
-    # A listagem da CXTV é HTML normal para os primeiros cards. Usamos HTTP primeiro
-    # para não depender do modo headless do Chromium. O navegador fica como fallback
-    # para o botão Carregar Mais.
     pages=[BRASIL_URL]+[f'{BASE}/tv/estados/{uf}' for uf in 'ac al ap am ba ce df es go ma mt ms mg pa pb pr pe pi rj rn rs ro sc sp se to'.split()]
     allurls=[]; counts={}; debug=[]
-    timeout=aiohttp.ClientTimeout(total=35)
+    timeout=aiohttp.ClientTimeout(total=45)
+    last_jina=0.0
     async with aiohttp.ClientSession(timeout=timeout) as session:
         for u in pages:
             status,html,final=await fetch_page(session,u)
             found=extract_channel_urls(html) if html else []
-            # Se o HTTP trouxe os cards, preservamos esses links mesmo que o Chromium
-            # receba uma resposta diferente no runner.
+            source='http'
             if found:
                 print(f'HTTP descobriu {len(found)} em {u}',flush=True)
+            elif status == 403:
+                # Anonymous Jina Reader is rate-limited to about 20 RPM;
+                # space requests so the fallback remains reliable.
+                now=asyncio.get_running_loop().time()
+                wait=max(0.0,3.2-(now-last_jina))
+                if wait: await asyncio.sleep(wait)
+                jstatus,jhtml=await fetch_jina(session,u)
+                last_jina=asyncio.get_running_loop().time()
+                found=extract_channel_urls(jhtml) if jhtml else []
+                source='jina'
+                print(f'Jina descobriu {len(found)} em {u}',flush=True)
             else:
                 print(f'HTTP descobriu 0 em {u} (status={status}, bytes={len(html)})',flush=True)
+
+            # Browser remains a second fallback, especially useful when the
+            # listing requires the dynamic Carregar Mais button.
             if not found:
-                found, bh=await browser_discover(page,u)
+                found,bh=await browser_discover(page,u)
                 if bh and len(bh)>1000:
                     Path('cxtv_debug.html').write_text(bh,encoding='utf-8')
+                source='browser'
+                print(f'Browser descobriu {len(found)} em {u}',flush=True)
+
             counts[u]=len(found); allurls.extend(found)
-            debug.append({'url':u,'status':status,'bytes':len(html),'descobertos':len(found)})
+            debug.append({'url':u,'status':status,'bytes':len(html),'fonte':source,'descobertos':len(found)})
     seen=set(); unique=[]
     for u in allurls:
         if u and u not in seen: seen.add(u); unique.append(u)
@@ -192,7 +236,7 @@ async def fetch(session,u,ref=None):
             d=await r.content.read(1024*1024); return d,r.status,str(r.url),r.headers
     except Exception:return b'',0,u,{}
 async def valid(session,u,ref=None,depth=0,seen=None):
-    seen=seen or set()
+    if seen is None: seen=set()
     if not u or u in seen or depth>2:return False
     seen.add(u); d,st,final,h=await fetch(session,u,ref)
     if st not in (200,206) or not d:return False
@@ -206,7 +250,11 @@ async def valid(session,u,ref=None,depth=0,seen=None):
                 v=lines[i+1].strip()
                 if v and not v.startswith('#'):variants.append(urljoin(final,v))
             elif l and not l.startswith('#'):segs.append(urljoin(final,l))
-        if variants:return any(await valid(session,v,ref,depth+1,seen) for v in variants[:3])
+        if variants:
+            for v in variants[:3]:
+                if await valid(session,v,ref,depth+1,seen):
+                    return True
+            return False
         if not segs:return False
         for s in segs[:3]:
             sd,ss,_,_=await fetch(session,s,ref)
@@ -253,7 +301,7 @@ async def main():
     rows=await validate(items)
     if not rows: raise SystemExit('Nenhum canal ativo validado; lista existente preservada.')
     write(rows)
-    STATUS.write_text(json.dumps({'canais_descobertos':len(urls),'canais_com_stream':len(set(r[0] for r in rows)),'entradas_m3u':len(rows),'regionais_incluidos':True},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    STATUS.write_text(json.dumps({'canais_descobertos':len(urls),'canais_com_stream':len(set(r[0] for r in rows)),'entradas_m3u':len(rows),'regionais_incluidos':True,'validacao_hls_segmentos':True},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(f'Gerado {OUT} com {len(rows)} entradas.')
 
 if __name__=='__main__':asyncio.run(main())
