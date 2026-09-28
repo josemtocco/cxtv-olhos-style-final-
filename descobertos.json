@@ -241,5 +241,112 @@
     "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cine",
     "https://www.cxtv.com.br/tv-ao-vivo/web-tv-classicos-do-cinema",
     "https://www.cxtv.com.br/tv-ao-vivo/web-tv-xtreme"
-  ]
+  ],
+  "estados": {
+    "ac": {
+      "descobertos": 0,
+      "esperados_no_site": 2
+    },
+    "al": {
+      "descobertos": 0,
+      "esperados_no_site": 11
+    },
+    "ap": {
+      "descobertos": 0,
+      "esperados_no_site": 1
+    },
+    "am": {
+      "descobertos": 0,
+      "esperados_no_site": 10
+    },
+    "ba": {
+      "descobertos": 0,
+      "esperados_no_site": 34
+    },
+    "ce": {
+      "descobertos": 0,
+      "esperados_no_site": 32
+    },
+    "df": {
+      "descobertos": 0,
+      "esperados_no_site": 22
+    },
+    "es": {
+      "descobertos": 0,
+      "esperados_no_site": 17
+    },
+    "go": {
+      "descobertos": 0,
+      "esperados_no_site": 20
+    },
+    "ma": {
+      "descobertos": 0,
+      "esperados_no_site": 17
+    },
+    "mt": {
+      "descobertos": 0,
+      "esperados_no_site": 21
+    },
+    "ms": {
+      "descobertos": 0,
+      "esperados_no_site": 14
+    },
+    "mg": {
+      "descobertos": 0,
+      "esperados_no_site": 63
+    },
+    "pa": {
+      "descobertos": 0,
+      "esperados_no_site": 21
+    },
+    "pb": {
+      "descobertos": 0,
+      "esperados_no_site": 24
+    },
+    "pr": {
+      "descobertos": 0,
+      "esperados_no_site": 44
+    },
+    "pe": {
+      "descobertos": 0,
+      "esperados_no_site": 17
+    },
+    "pi": {
+      "descobertos": 0,
+      "esperados_no_site": 15
+    },
+    "rj": {
+      "descobertos": 0,
+      "esperados_no_site": 58
+    },
+    "rn": {
+      "descobertos": 0,
+      "esperados_no_site": 22
+    },
+    "rs": {
+      "descobertos": 0,
+      "esperados_no_site": 54
+    },
+    "ro": {
+      "descobertos": 0,
+      "esperados_no_site": 11
+    },
+    "sc": {
+      "descobertos": 0,
+      "esperados_no_site": 39
+    },
+    "sp": {
+      "descobertos": 0,
+      "esperados_no_site": 212
+    },
+    "se": {
+      "descobertos": 0,
+      "esperados_no_site": 5
+    },
+    "to": {
+      "descobertos": 0,
+      "esperados_no_site": 2
+    }
+  },
+  "observacao": "Arquivo gravado incrementalmente durante a descoberta; os numeros esperados sao os exibidos atualmente pela pagina de estados da CXTV."
 }
