@@ -1,5 +1,3 @@
 __pycache__/
 *.py[cod]
-*.log
-.env
-.DS_Store
+.venv/
