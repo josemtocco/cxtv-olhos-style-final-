@@ -9,6 +9,7 @@ BASE='https://www.cxtv.com.br'
 BRASIL_URL=f'{BASE}/tv/paises/tvs-brasil'
 ESTADOS_URL=f'{BASE}/tv/estados'
 OUT=Path('cxtvbrasil.m3u'); STATUS=Path('status.json'); DISC=Path('descobertos.json')
+EXPECTED={'ac':2,'al':11,'ap':1,'am':10,'ba':34,'ce':32,'df':22,'es':17,'go':20,'ma':17,'mt':21,'ms':14,'mg':63,'pa':21,'pb':24,'pr':44,'pe':17,'pi':15,'rj':58,'rn':22,'rs':54,'ro':11,'sc':39,'sp':212,'se':5,'to':2}
 UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
 JINA='https://r.jina.ai/'
 
@@ -161,6 +162,16 @@ async def browser_discover(page,url):
         print(f'Browser falhou {url}: {e}',flush=True)
         return [],''
 
+def write_discovery(counts, debug, unique):
+    estados={}
+    for u,n in counts.items():
+        m=re.search(r'/tv/estados/([a-z]{2})$',u,re.I)
+        if m:
+            uf=m.group(1).lower()
+            estados[uf]={'descobertos':n,'esperados_no_site':EXPECTED.get(uf)}
+    payload={'paginas':counts,'diagnostico':debug,'canais_unicos':len(unique),'canais':unique,'estados':estados,'observacao':'Arquivo gravado incrementalmente durante a descoberta; os numeros esperados sao os exibidos atualmente pela pagina de estados da CXTV.'}
+    DISC.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
+
 async def discover(page):
     pages=[BRASIL_URL]+[f'{BASE}/tv/estados/{uf}' for uf in 'ac al ap am ba ce df es go ma mt ms mg pa pb pr pe pi rj rn rs ro sc sp se to'.split()]
     allurls=[]; counts={}; debug=[]
@@ -212,10 +223,15 @@ async def discover(page):
 
             counts[u]=len(found); allurls.extend(found)
             debug.append({'url':u,'status':status,'bytes':len(html),'fonte':source,'descobertos':len(found)})
+            tmp_seen=set(); tmp_unique=[]
+            for x in allurls:
+                if x and x not in tmp_seen: tmp_seen.add(x); tmp_unique.append(x)
+            write_discovery(counts, debug, tmp_unique)
+            print(f'Diagnostico atualizado: {len(tmp_unique)} canais descobertos ate agora.',flush=True)
     seen=set(); unique=[]
     for u in allurls:
         if u and u not in seen: seen.add(u); unique.append(u)
-    DISC.write_text(json.dumps({'paginas':counts,'diagnostico':debug,'canais_unicos':len(unique),'canais':unique},ensure_ascii=False,indent=2),encoding='utf-8')
+    write_discovery(counts, debug, unique)
     return unique
 
 async def inspect(browser,url,sem):
