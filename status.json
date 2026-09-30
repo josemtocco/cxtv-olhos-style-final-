@@ -1,7 +1,7 @@
 {
   "canais_descobertos": 20,
   "canais_com_stream": 17,
-  "entradas_m3u": 61,
+  "entradas_m3u": 65,
   "regionais_incluidos": true,
   "validacao_hls_segmentos": true
 }
