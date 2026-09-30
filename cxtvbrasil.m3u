@@ -19,12 +19,28 @@ https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="d56db20cda79" tvg-name="Adesso Tv" tvg-country="BR" tvg-language="Português" group-title="Documentários",Adesso Tv
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="ea1916fc8320" tvg-name="CinePIX TV" tvg-country="BR" tvg-language="Português" group-title="Documentários",CinePIX TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-id="106bf68ba539" tvg-name="Masper TV" tvg-country="BR" tvg-language="Português" group-title="Documentários",Masper TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 tvg-id="2dfe3166da9b" tvg-name="Porto Alegre 24 Horas TV (Pop Tv)" tvg-country="BR" tvg-language="Português" group-title="Documentários",Porto Alegre 24 Horas TV (Pop Tv)
 https://rtisoluctions.com.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="c14d037f1fdd" tvg-name="RS Play TV" tvg-country="BR" tvg-language="Português" group-title="Documentários",RS Play TV
+https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
+#EXTINF:-1 tvg-id="3c340495f651" tvg-name="TV Cidade 10" tvg-country="BR" tvg-language="Português" group-title="Documentários",TV Cidade 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
+#EXTINF:-1 tvg-id="ee7d166b74e5" tvg-name="Tv Clube Web" tvg-country="BR" tvg-language="Português" group-title="Documentários",Tv Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="2ceffe6f5472" tvg-name="TV MON" tvg-country="BR" tvg-language="Português" group-title="Documentários",TV MON
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="dc3291908a36" tvg-name="Tv Osório News" tvg-country="BR" tvg-language="Português" group-title="Documentários",Tv Osório News
 https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
+#EXTINF:-1 tvg-id="07a79199b825" tvg-name="TV Pampa (Rede TV RS)" tvg-country="BR" tvg-language="Português" group-title="Documentários",TV Pampa (Rede TV RS)
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="f1d41c89284c" tvg-name="TVE RS" tvg-country="BR" tvg-language="Português" group-title="Documentários",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Documentários",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="f1d41c89284c" tvg-name="TVE RS" tvg-country="BR" tvg-language="Português" group-title="Educativos",TVE RS
@@ -35,6 +51,8 @@ https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="ea1916fc8320" tvg-name="CinePIX TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",CinePIX TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-id="c14d037f1fdd" tvg-name="RS Play TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",RS Play TV
+https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
 #EXTINF:-1 tvg-id="dc3291908a36" tvg-name="Tv Osório News" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Osório News
 https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Xtreme
@@ -59,6 +77,8 @@ https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.m3u8
 https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1 tvg-id="07a79199b825" tvg-name="TV Pampa (Rede TV RS)" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Pampa (Rede TV RS)
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="f1d41c89284c" tvg-name="TVE RS" tvg-country="BR" tvg-language="Português" group-title="Notícias",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Notícias",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="2b550a8cbc41" tvg-name="TV Câmara Caxias do Sul" tvg-country="BR" tvg-language="Português" group-title="Publicos",TV Câmara Caxias do Sul
