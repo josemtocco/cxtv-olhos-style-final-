@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Xb4kGhrt4nbRW8wVecS_rhnTdgdh0cQvT-j5z9DoDyeGF0OWaEuJSXLkzSs_3zeWRvJwryx_QXM_S7HIQWXVutM2WLoXVFMt4y6LlBpfK7AZMDSWFtEoQRMUM4TOpRRO)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(FpscUDCxk4hGazRyEDj1S8Tvjw0-kecbfIjZ7eYNBaDIv5r5esnNFW-9NC1IsWFvjO4CKaSxsk_Ul3iG0_Rv4EwsSZ47zShdvkw93MXt9N0e0BziwOdzW2TcZehaaPDC)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
@@ -10,7 +10,7 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Xb4kGhrt4nbRW8wVecS_rhnTdgdh0cQvT-j5z9DoDyeGF0OWaEuJSXLkzSs_3zeWRvJwryx_QXM_S7HIQWXVutM2WLoXVFMt4y6LlBpfK7AZMDSWFtEoQRMUM4TOpRRO)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(FpscUDCxk4hGazRyEDj1S8Tvjw0-kecbfIjZ7eYNBaDIv5r5esnNFW-9NC1IsWFvjO4CKaSxsk_Ul3iG0_Rv4EwsSZ47zShdvkw93MXt9N0e0BziwOdzW2TcZehaaPDC)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
@@ -31,14 +31,10 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Documentários",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Documentários",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Documentários",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Documentários",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Documentários",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
@@ -56,7 +52,7 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Xb4kGhrt4nbRW8wVecS_rhnTdgdh0cQvT-j5z9DoDyeGF0OWaEuJSXLkzSs_3zeWRvJwryx_QXM_S7HIQWXVutM2WLoXVFMt4y6LlBpfK7AZMDSWFtEoQRMUM4TOpRRO)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(FpscUDCxk4hGazRyEDj1S8Tvjw0-kecbfIjZ7eYNBaDIv5r5esnNFW-9NC1IsWFvjO4CKaSxsk_Ul3iG0_Rv4EwsSZ47zShdvkw93MXt9N0e0BziwOdzW2TcZehaaPDC)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Filmes",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
@@ -77,8 +73,6 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Música",Web Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Música",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Notícias",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
@@ -86,7 +80,7 @@ https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Xb4kGhrt4nbRW8wVecS_rhnTdgdh0cQvT-j5z9DoDyeGF0OWaEuJSXLkzSs_3zeWRvJwryx_QXM_S7HIQWXVutM2WLoXVFMt4y6LlBpfK7AZMDSWFtEoQRMUM4TOpRRO)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(FpscUDCxk4hGazRyEDj1S8Tvjw0-kecbfIjZ7eYNBaDIv5r5esnNFW-9NC1IsWFvjO4CKaSxsk_Ul3iG0_Rv4EwsSZ47zShdvkw93MXt9N0e0BziwOdzW2TcZehaaPDC)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Notícias",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Aracati HD
@@ -124,7 +118,7 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Xb4kGhrt4nbRW8wVecS_rhnTdgdh0cQvT-j5z9DoDyeGF0OWaEuJSXLkzSs_3zeWRvJwryx_QXM_S7HIQWXVutM2WLoXVFMt4y6LlBpfK7AZMDSWFtEoQRMUM4TOpRRO)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(FpscUDCxk4hGazRyEDj1S8Tvjw0-kecbfIjZ7eYNBaDIv5r5esnNFW-9NC1IsWFvjO4CKaSxsk_Ul3iG0_Rv4EwsSZ47zShdvkw93MXt9N0e0BziwOdzW2TcZehaaPDC)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
