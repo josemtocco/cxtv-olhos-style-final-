@@ -1,0 +1,25 @@
+{
+  "brasil": "https://www.cxtv.com.br/tv/paises/tvs-brasil",
+  "estados": {
+    "rs": "https://www.cxtv.com.br/tv/estados/rs",
+    "rj": "https://www.cxtv.com.br/tv/estados/rj",
+    "sp": "https://www.cxtv.com.br/tv/estados/sp",
+    "sc": "https://www.cxtv.com.br/tv/estados/sc",
+    "pr": "https://www.cxtv.com.br/tv/estados/pr",
+    "mg": "https://www.cxtv.com.br/tv/estados/mg",
+    "ce": "https://www.cxtv.com.br/tv/estados/ce",
+    "ba": "https://www.cxtv.com.br/tv/estados/ba",
+    "pa": "https://www.cxtv.com.br/tv/estados/pa",
+    "pb": "https://www.cxtv.com.br/tv/estados/pb",
+    "rn": "https://www.cxtv.com.br/tv/estados/rn",
+    "pi": "https://www.cxtv.com.br/tv/estados/pi",
+    "df": "https://www.cxtv.com.br/tv/estados/df",
+    "mt": "https://www.cxtv.com.br/tv/estados/mt",
+    "ms": "https://www.cxtv.com.br/tv/estados/ms",
+    "go": "https://www.cxtv.com.br/tv/estados/go",
+    "es": "https://www.cxtv.com.br/tv/estados/es",
+    "am": "https://www.cxtv.com.br/tv/estados/am",
+    "al": "https://www.cxtv.com.br/tv/estados/al",
+    "ma": "https://www.cxtv.com.br/tv/estados/ma"
+  }
+}
