@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - 'gerar_m3u.py'
+      - 'fontes_estados.json'
       - 'requirements.txt'
       - '.github/workflows/atualizar.yml'
 
@@ -19,7 +20,7 @@ env:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -47,20 +48,20 @@ jobs:
           name: diagnostico-cxtv
           path: |
             descobertos.json
-            cxtv_debug.html
+            status.json
           if-no-files-found: warn
           retention-days: 14
 
-      - name: Commit diagnóstico mesmo se a geração falhar
+      - name: Commit diagnóstico
         if: always()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add descobertos.json cxtv_debug.html || true
+          git add descobertos.json status.json || true
           git diff --cached --quiet || git commit -m 'Atualizar diagnostico CXTV'
           git push || true
 
-      - name: Validar lista gerada
+      - name: Validar M3U
         if: steps.gerar.outcome == 'success'
         run: |
           test -f cxtvbrasil.m3u
@@ -76,8 +77,8 @@ jobs:
           git diff --cached --quiet || git commit -m 'Atualizar lista CXTV Brasil'
           git push
 
-      - name: Falhar se a geração não terminou
+      - name: Encerrar com erro se necessário
         if: steps.gerar.outcome != 'success'
         run: |
-          echo 'A geração da lista falhou. O descobertos.json foi salvo para diagnóstico.'
+          echo 'A geração da lista falhou. O diagnóstico foi preservado.'
           exit 1
