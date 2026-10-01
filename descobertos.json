@@ -321,11 +321,9 @@
   ],
   "canais_unicos": 20,
   "canais": [
-    "https://www.cxtv.com.br/tv-ao-vivo/adesso-tv",
     "https://www.cxtv.com.br/tv-ao-vivo/band-rs",
     "https://www.cxtv.com.br/tv-ao-vivo/cinepix-tv",
     "https://www.cxtv.com.br/tv-ao-vivo/masper-tv",
-    "https://www.cxtv.com.br/tv-ao-vivo/poa-streaming-tv",
     "https://www.cxtv.com.br/tv-ao-vivo/poa-tv",
     "https://www.cxtv.com.br/tv-ao-vivo/pop-tv-porto-alegre-24-horas-tv",
     "https://www.cxtv.com.br/tv-ao-vivo/rs-play-tv",
@@ -333,12 +331,14 @@
     "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-porto-alegre",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-caxias-do-sul",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-10",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-pelotas",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-clube-web",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-gaucha",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-gramado-net",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-mon",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-osorio-news",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-pampa",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-passo-fundo",
     "https://www.cxtv.com.br/tv-ao-vivo/tve-rs",
     "https://www.cxtv.com.br/tv-ao-vivo/web-tv-xtreme"
   ],
@@ -3704,5 +3704,5 @@
       "total_estado": 0
     }
   ],
-  "atualizado_em": "2026-10-01T04:34:20Z"
+  "atualizado_em": "2026-10-01T12:44:57Z"
 }
