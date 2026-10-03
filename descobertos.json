@@ -161,7 +161,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rs",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "browser",
       "descobertos": 20,
       "esperados_no_site": 54
@@ -169,7 +169,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rj",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 58
@@ -177,7 +177,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/sp",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 212
@@ -185,7 +185,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/sc",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 39
@@ -193,7 +193,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pr",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 44
@@ -201,7 +201,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/mg",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 63
@@ -209,7 +209,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ce",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 32
@@ -217,7 +217,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ba",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 34
@@ -225,7 +225,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pa",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 21
@@ -233,7 +233,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pb",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 24
@@ -241,7 +241,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rn",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 22
@@ -249,7 +249,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pi",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 15
@@ -257,7 +257,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/df",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 22
@@ -265,7 +265,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/mt",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 21
@@ -273,7 +273,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ms",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 14
@@ -281,7 +281,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/go",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 20
@@ -289,7 +289,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/es",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 17
@@ -297,7 +297,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/am",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 10
@@ -305,7 +305,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/al",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 11
@@ -313,7 +313,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ma",
       "status": 403,
-      "bytes": 5722,
+      "bytes": 5701,
       "fonte": "http-403",
       "descobertos": 0,
       "esperados_no_site": 17
@@ -3704,5 +3704,5 @@
       "total_estado": 0
     }
   ],
-  "atualizado_em": "2026-10-02T22:07:31Z"
+  "atualizado_em": "2026-10-03T04:10:52Z"
 }
