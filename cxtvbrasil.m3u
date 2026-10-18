@@ -4,7 +4,7 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2b550a8cbc41" tvg-name="TV Câmara Caxias do Sul" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Câmara Caxias do Sul
 https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Cultura",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjMzODA4MywibmJmIjoxNzkyMzM4MDgzLCJleHAiOjE3OTQ5MzAwODMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.vnM7F_MQSUA6tIh0lKRF_18FR9EhYB6XTqLabQ246ho&uid=5cec96da-2efd-43d7-a216-4daecee5678b
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjM1NTA5OCwibmJmIjoxNzkyMzU1MDk4LCJleHAiOjE3OTQ5NDcwOTgsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yF9OUDFEIVFhUQiuePYRYHR5dlcPk2m0YwrmqMYNdfc&uid=ad959610-cb7c-4a7c-9ffe-32e48412e2e1
 #EXTINF:-1 tvg-id="106bf68ba539" tvg-name="Masper TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Masper TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 tvg-id="1a63a4484107" tvg-name="POA TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",POA TV
@@ -35,20 +35,18 @@ https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="ea1916fc8320" tvg-name="CinePIX TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",CinePIX TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 tvg-id="2ceffe6f5472" tvg-name="TV MON" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV MON
-https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="dc3291908a36" tvg-name="Tv Osório News" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Osório News
 https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Futebol",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjMzODA4MywibmJmIjoxNzkyMzM4MDgzLCJleHAiOjE3OTQ5MzAwODMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.vnM7F_MQSUA6tIh0lKRF_18FR9EhYB6XTqLabQ246ho&uid=5cec96da-2efd-43d7-a216-4daecee5678b
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjM1NTA5OCwibmJmIjoxNzkyMzU1MDk4LCJleHAiOjE3OTQ5NDcwOTgsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yF9OUDFEIVFhUQiuePYRYHR5dlcPk2m0YwrmqMYNdfc&uid=ad959610-cb7c-4a7c-9ffe-32e48412e2e1
 #EXTINF:-1 tvg-id="5dea4caa80d2" tvg-name="TV Gaúcha" tvg-country="BR" tvg-language="Português" group-title="Música",TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTINF:-1 tvg-id="f1d41c89284c" tvg-name="TVE RS" tvg-country="BR" tvg-language="Português" group-title="Música",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Notícias",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjMzODA4MywibmJmIjoxNzkyMzM4MDgzLCJleHAiOjE3OTQ5MzAwODMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.vnM7F_MQSUA6tIh0lKRF_18FR9EhYB6XTqLabQ246ho&uid=5cec96da-2efd-43d7-a216-4daecee5678b
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjM1NTA5OCwibmJmIjoxNzkyMzU1MDk4LCJleHAiOjE3OTQ5NDcwOTgsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yF9OUDFEIVFhUQiuePYRYHR5dlcPk2m0YwrmqMYNdfc&uid=ad959610-cb7c-4a7c-9ffe-32e48412e2e1
 #EXTINF:-1 tvg-id="106bf68ba539" tvg-name="Masper TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Masper TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 tvg-id="1a63a4484107" tvg-name="POA TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",POA TV
@@ -82,7 +80,7 @@ https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Variedades",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjMzODA4MywibmJmIjoxNzkyMzM4MDgzLCJleHAiOjE3OTQ5MzAwODMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVjZWM5NmRhLTJlZmQtNDNkNy1hMjE2LTRkYWVjZWU1Njc4YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.vnM7F_MQSUA6tIh0lKRF_18FR9EhYB6XTqLabQ246ho&uid=5cec96da-2efd-43d7-a216-4daecee5678b
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MjM1NTA5OCwibmJmIjoxNzkyMzU1MDk4LCJleHAiOjE3OTQ5NDcwOTgsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImFkOTU5NjEwLWNiN2MtNGE3Yy05ZmZlLTMyZTQ4NDEyZTJlMSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yF9OUDFEIVFhUQiuePYRYHR5dlcPk2m0YwrmqMYNdfc&uid=ad959610-cb7c-4a7c-9ffe-32e48412e2e1
 #EXTINF:-1 tvg-id="106bf68ba539" tvg-name="Masper TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Masper TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 tvg-id="1a63a4484107" tvg-name="POA TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",POA TV
