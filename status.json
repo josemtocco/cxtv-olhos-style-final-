@@ -1,7 +1,7 @@
 {
-  "canais_descobertos": 20,
-  "canais_com_stream": 15,
-  "entradas_m3u": 44,
+  "canais_descobertos": 363,
+  "canais_com_stream": 236,
+  "entradas_m3u": 670,
   "fontes_estaduais": 20,
   "validacao_hls_segmentos": true,
   "ss_iptv_compatibilidade": true
