@@ -18,7 +18,7 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 #EXTINF:-1 tvg-id="2b550a8cbc41" tvg-name="TV Câmara Caxias do Sul" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Câmara Caxias do Sul
 https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NaY1ns6yhkX-e04z62GbbaLz3c1QrI8SDV0OYCneyxeM6Z04LP9BmKuHa8FxznpNAYf5xz39xn8kfM4A_pxtb1zYA7HI1rJIiOGCa9WtbweaGn2Xbrn4_eZPI0frfCSs)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(n0zVOgIozOzjb-X4qIBCJQtlQIEHj80GgrLe1IzzeoKGH352jVID6rNWaYH0bWlLty8WjV_4hUyNImTEsS5btVjs8Xgz70UtBd0aUa9NnVQDUMHMn3zObOE9CtsOAG24)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="22acd90a4fb4" tvg-name="TV Guará (Record News Maranhão)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Guará (Record News Maranhão)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 #EXTINF:-1 tvg-id="00273ae94a90" tvg-name="Tv Mega Brasil" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Tv Mega Brasil
@@ -54,9 +54,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="7214f9cdbae5" tvg-name="Araruna TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Cultura",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg3MCwibmJmIjoxNzkzNjMxODcwLCJleHAiOjE3OTYyMjM4NzAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.9FB_XVTDySjq1H8dBmBTJ5DTsVsXvGiwAy45xSyWaBE&uid=7595c59e-314d-4c7d-86be-db6d3100373d
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg3MiwibmJmIjoxNzkzNjY2ODcyLCJleHAiOjE3OTYyNTg4NzIsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-InHcvOznmxgYdaGYLFDjUnbPc91UAoLtkNMYD7d4os&uid=e413ed94-39c6-418c-9142-ea0c863c8df2
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Cultura",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg5MywibmJmIjoxNzkzNjMxODkzLCJleHAiOjE3OTYyMjM4OTMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.8Z317I-d-gOzijlaa2mrH26MuapqoWukZ9CstdilJBw&uid=8446f147-c114-4130-b354-708ff348aff2
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg5NywibmJmIjoxNzkzNjY2ODk3LCJleHAiOjE3OTYyNTg4OTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.1qKgGBi0Xa5ao5_Bz9HtOrJxzDYbXGTQAp45UMQ0-3M&uid=5dcc1b44-0672-481d-9b42-f4b2a2c041ce
 #EXTINF:-1 tvg-id="fd8865778a81" tvg-name="Blink 102 FM" tvg-country="BR" tvg-language="Português" group-title="Cultura",Blink 102 FM
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="a041f5b54223" tvg-name="Canal 2 - Tv Nova Juarez" tvg-country="BR" tvg-language="Português" group-title="Cultura",Canal 2 - Tv Nova Juarez
@@ -133,10 +133,14 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
 #EXTINF:-1 tvg-id="6ba746a24fca" tvg-name="Tv Carioca Internacional" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv Carioca Internacional
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="43f731816cca" tvg-name="TV Cidade" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cidade
+https://stream.ichibansys.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-id="3c340495f651" tvg-name="TV Cidade 10" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cidade 10
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 #EXTINF:-1 tvg-id="97bc665c12f7" tvg-name="TV Cidade Oeste" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cidade Oeste
 https://video07.logicahost.com.br/tvcidadeoeste/tvcidadeoeste/playlist.m3u8
+#EXTINF:-1 tvg-id="194977d885fd" tvg-name="TV Clube RN" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
 #EXTINF:-1 tvg-id="0677574a05b1" tvg-name="Tv COM Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
@@ -156,7 +160,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 tvg-id="5794a4ab1d30" tvg-name="TV Gazeta Norte de Minas" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Gazeta Norte de Minas
 https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-id="f06afd336665" tvg-name="TV Gazeta RN" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Gazeta RN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(acEbLzc1PpshODAhIn7nQvHpdgg9IhaYscs4ZOXo_nNuqOSmoe5NxmFyehECGWaqqju5YMuth61y9bpZ_zR89T5AKW9hnZKgURckZnXhld4a6Mf_QdCe7_x1UaT1CS8F)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(huM2GeuNJ98s1Y-xQaiT3noCLV_63M5UCTiOH1R_-5ipOpDRyHLpUmgayPbesixfoY_1Q3rJYOCN3xwfm8tv4RhH8PeDA2Vey8KYvJsRVOdO9Ed2nSRvMJyQpYuArhyi)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="5dea4caa80d2" tvg-name="TV Gaúcha" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTINF:-1 tvg-id="772e106c4daa" tvg-name="Tv Goitacá" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv Goitacá
@@ -191,8 +195,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="e1abe58cedfa" tvg-name="Tv Mix Belém 100.9 FM" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv Mix Belém 100.9 FM
 https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
-#EXTINF:-1 tvg-id="72c8f0b5a196" tvg-name="TV Montanhesa" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Montanhesa
-https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 #EXTINF:-1 tvg-id="63764c0aa518" tvg-name="TV Na Ativa" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Na Ativa
 https://webtv.naativa.org/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="3fa23cd3fa9a" tvg-name="Tv Nova Juarez" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv Nova Juarez
@@ -209,8 +211,8 @@ https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-id="ae3df1e4fac0" tvg-name="TV Pantanal" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
-#EXTINF:-1 tvg-id="ec258a13876b" tvg-name="TV Paraná Turismo (Cultura PR)" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Paraná Turismo (Cultura PR)
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 tvg-id="af1b14bbe7ea" tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Petrópolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="2ea4b39a906c" tvg-name="Tv Plug" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv Plug
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8
 #EXTINF:-1 tvg-id="d3ea979e7483" tvg-name="Tv Ponta Verde" tvg-country="BR" tvg-language="Português" group-title="Cultura",Tv Ponta Verde
@@ -369,8 +371,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-id="b119a453b846" tvg-name="Tv Padre Cicero" tvg-country="BR" tvg-language="Português" group-title="Educativos",Tv Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-id="ec258a13876b" tvg-name="TV Paraná Turismo (Cultura PR)" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Paraná Turismo (Cultura PR)
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="ed514c3c08bb" tvg-name="Tv Sepiol" tvg-country="BR" tvg-language="Português" group-title="Educativos",Tv Sepiol
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="bd3568e6639b" tvg-name="TV UFMA" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV UFMA
@@ -384,9 +384,7 @@ https://media-gmcdn.eduplay.rnp.br/live/exSfynp7cIMoEIqHV6mQ5w'''''''1'/CGLdzTh3
 #EXTINF:-1 tvg-id="166c79fdb232" tvg-name="Unisul TV" tvg-country="BR" tvg-language="Português" group-title="Educativos",Unisul TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Esportes",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg3MCwibmJmIjoxNzkzNjMxODcwLCJleHAiOjE3OTYyMjM4NzAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.9FB_XVTDySjq1H8dBmBTJ5DTsVsXvGiwAy45xSyWaBE&uid=7595c59e-314d-4c7d-86be-db6d3100373d
-#EXTINF:-1 tvg-id="bf1a3cacd279" tvg-name="Canal Futura" tvg-country="BR" tvg-language="Português" group-title="Esportes",Canal Futura
-http://45.162.64.114/FUTURA/index.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg3MiwibmJmIjoxNzkzNjY2ODcyLCJleHAiOjE3OTYyNTg4NzIsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-InHcvOznmxgYdaGYLFDjUnbPc91UAoLtkNMYD7d4os&uid=e413ed94-39c6-418c-9142-ea0c863c8df2
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="f2d3ea45fd6d" tvg-name="Drive Channel Tv" tvg-country="BR" tvg-language="Português" group-title="Esportes",Drive Channel Tv
@@ -403,6 +401,8 @@ https://www.cxtv.com.br/proxy.php?url=http://177.74.174.57:8080/hls/primertv.m3u
 https://www.cxtv.com.br/proxy.php?url=http://177.74.174.57:8080/hls/primertv.m3u8
 #EXTINF:-1 tvg-id="7b8e2e659e3a" tvg-name="Radio Esportes Brasília" tvg-country="BR" tvg-language="Português" group-title="Esportes",Radio Esportes Brasília
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede CNT Belém
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(wjz1aISVS7uugrgFE_V5uOJR2RwUwNHh_EcTnli6OsAl4wfFjsOOZkM0yOHJBhS9ZixIFhp51GbYj-Mlo0NAN6hqFvLYCgrTy8JweJNX3Dv7V5SdDNbtqFWG6G-iL5SVvewGsQHFQs7kcO4ookVxIRx5f8qeHBJtkXIYCQTphzHaLC5A9wQPAreuFoWLvXIc)/cloud/3/x9zdt9s/d/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="b4aed626b89e" tvg-name="Redetv Mais" tvg-country="BR" tvg-language="Português" group-title="Esportes",Redetv Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="af5b079d0211" tvg-name="RS News Sports 4" tvg-country="BR" tvg-language="Português" group-title="Esportes",RS News Sports 4
@@ -417,20 +417,20 @@ https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 #EXTINF:-1 tvg-id="0d6911666ee8" tvg-name="Tv Cidade Brasil" tvg-country="BR" tvg-language="Português" group-title="Esportes",Tv Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="4961b1c20b4a" tvg-name="TV Cidade Verde (SBT PI)" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Cidade Verde (SBT PI)
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="0677574a05b1" tvg-name="Tv COM Brasil" tvg-country="BR" tvg-language="Português" group-title="Esportes",Tv COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-id="e0af8aad9b1c" tvg-name="TV Diário Do Sertão" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Diário Do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NaY1ns6yhkX-e04z62GbbaLz3c1QrI8SDV0OYCneyxeM6Z04LP9BmKuHa8FxznpNAYf5xz39xn8kfM4A_pxtb1zYA7HI1rJIiOGCa9WtbweaGn2Xbrn4_eZPI0frfCSs)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(n0zVOgIozOzjb-X4qIBCJQtlQIEHj80GgrLe1IzzeoKGH352jVID6rNWaYH0bWlLty8WjV_4hUyNImTEsS5btVjs8Xgz70UtBd0aUa9NnVQDUMHMn3zObOE9CtsOAG24)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="a22738e3d096" tvg-name="TV Maceió" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Maceió
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="113e5146bee4" tvg-name="TV Marajoara" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="5d0c414e4828" tvg-name="TV Master" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Master
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-id="ec258a13876b" tvg-name="TV Paraná Turismo (Cultura PR)" tvg-country="BR" tvg-language="Português" group-title="Esportes",TV Paraná Turismo (Cultura PR)
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="f1d41c89284c" tvg-name="TVE RS" tvg-country="BR" tvg-language="Português" group-title="Esportes",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="429f999bea3b" tvg-name="Fonte TV" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Fonte TV
@@ -507,6 +507,8 @@ https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede CNT Belém
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(wjz1aISVS7uugrgFE_V5uOJR2RwUwNHh_EcTnli6OsAl4wfFjsOOZkM0yOHJBhS9ZixIFhp51GbYj-Mlo0NAN6hqFvLYCgrTy8JweJNX3Dv7V5SdDNbtqFWG6G-iL5SVvewGsQHFQs7kcO4ookVxIRx5f8qeHBJtkXIYCQTphzHaLC5A9wQPAreuFoWLvXIc)/cloud/3/x9zdt9s/d/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="384526ddf2e9" tvg-name="Rede Virtual TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Virtual TV
 https://video03.logicahost.com.br/redevirtualtv/redevirtualtv/playlist.m3u8
 #EXTINF:-1 tvg-id="59d38a9bca2e" tvg-name="Runtime Ação" tvg-country="BR" tvg-language="Português" group-title="Filmes",Runtime Ação
@@ -515,10 +517,10 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 https://5c483b9d1019c.streamlock.net/semeartv/semeartv/playlist.m3u8
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3659b7cd1b61" tvg-name="Super Marajoara 89,9 FM" tvg-country="BR" tvg-language="Português" group-title="Filmes",Super Marajoara 89,9 FM
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="8396fc6a9403" tvg-name="Tv Adorando Jesus" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Adorando Jesus
 https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
-#EXTINF:-1 tvg-id="74addc961ce6" tvg-name="Tv Amplitude Juara" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Amplitude Juara
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/index.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="f7ade6358939" tvg-name="TV Assembléia Goiás" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Assembléia Goiás
@@ -535,8 +537,8 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-id="0d6911666ee8" tvg-name="Tv Cidade Brasil" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="1e584aa6db43" tvg-name="TV Cidade Verde" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Cidade Verde
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-id="194977d885fd" tvg-name="TV Clube RN" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="b811f3b3c2b9" tvg-name="Tv Gallo" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Gallo
@@ -547,8 +549,6 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
 #EXTINF:-1 tvg-id="a84aa8ce17a1" tvg-name="TV Guará Caxias" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Guará Caxias
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
-#EXTINF:-1 tvg-id="d8635d24e3a1" tvg-name="TV Igreja Mundial do Poder de Deus - IMPD TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Igreja Mundial do Poder de Deus - IMPD TV
-https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ddc814cc5480" tvg-name="Tv J.SID" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-id="2670f70aa29c" tvg-name="TV Latinasat" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Latinasat
@@ -563,12 +563,8 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="3fa23cd3fa9a" tvg-name="Tv Nova Juarez" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
-#EXTINF:-1 tvg-id="d4f52845e8b9" tvg-name="Tv Nova MT" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Nova MT
-https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="dc3291908a36" tvg-name="Tv Osório News" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Osório News
 https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
-#EXTINF:-1 tvg-id="ae3df1e4fac0" tvg-name="TV Pantanal" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Pantanal
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
 #EXTINF:-1 tvg-id="694b68b85303" tvg-name="TV Pantanal MS" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-id="1d888e722f01" tvg-name="TV Rock" tvg-country="BR" tvg-language="Português" group-title="Filmes",TV Rock
@@ -586,7 +582,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Futebol",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg5MywibmJmIjoxNzkzNjMxODkzLCJleHAiOjE3OTYyMjM4OTMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.8Z317I-d-gOzijlaa2mrH26MuapqoWukZ9CstdilJBw&uid=8446f147-c114-4130-b354-708ff348aff2
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg5NywibmJmIjoxNzkzNjY2ODk3LCJleHAiOjE3OTYyNTg4OTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.1qKgGBi0Xa5ao5_Bz9HtOrJxzDYbXGTQAp45UMQ0-3M&uid=5dcc1b44-0672-481d-9b42-f4b2a2c041ce
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="d05dccc6fc02" tvg-name="Premier TV" tvg-country="BR" tvg-language="Português" group-title="Futebol",Premier TV
@@ -608,7 +604,7 @@ https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Futebol",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Futebol",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NaY1ns6yhkX-e04z62GbbaLz3c1QrI8SDV0OYCneyxeM6Z04LP9BmKuHa8FxznpNAYf5xz39xn8kfM4A_pxtb1zYA7HI1rJIiOGCa9WtbweaGn2Xbrn4_eZPI0frfCSs)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(n0zVOgIozOzjb-X4qIBCJQtlQIEHj80GgrLe1IzzeoKGH352jVID6rNWaYH0bWlLty8WjV_4hUyNImTEsS5btVjs8Xgz70UtBd0aUa9NnVQDUMHMn3zObOE9CtsOAG24)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="973c1d4cb508" tvg-name="TV Jovem Pan News" tvg-country="BR" tvg-language="Português" group-title="Futebol",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="d382548f93d2" tvg-name="Tv Luzilândia" tvg-country="BR" tvg-language="Português" group-title="Futebol",Tv Luzilândia
@@ -621,6 +617,8 @@ https://srt01.logicahost.com.br/tvcbelem/tracks-v1/index.fmp4.m3u8
 https://stmv1.srvif.com/valmirtv/valmirtv/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Moda",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Moda",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="4171d3216ca2" tvg-name="Betelhost Sertanejo" tvg-country="BR" tvg-language="Português" group-title="Música",Betelhost Sertanejo
 https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8
 #EXTINF:-1 tvg-id="fd8865778a81" tvg-name="Blink 102 FM" tvg-country="BR" tvg-language="Português" group-title="Música",Blink 102 FM
@@ -635,8 +633,6 @@ https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
 https://www.cxtv.com.br/proxy.php?url=http://177.74.174.57:8080/hls/primertv.m3u8
 #EXTINF:-1 tvg-id="a9a816d364f4" tvg-name="Rede Mundo TV" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Mundo TV
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-#EXTINF:-1 tvg-id="6dbf056d0946" tvg-name="Rede Super" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Super
-https://tv01.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-id="e1b05c9bb021" tvg-name="Rede Universo Tv" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Universo Tv
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
 #EXTINF:-1 tvg-id="3fe6e25a75aa" tvg-name="RedeVida Caxias" tvg-country="BR" tvg-language="Português" group-title="Música",RedeVida Caxias
@@ -645,8 +641,6 @@ https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="b31d20a121d8" tvg-name="Rádio Redentor DF" tvg-country="BR" tvg-language="Português" group-title="Música",Rádio Redentor DF
 https://virtues.live:1936/redentor2/redentor2/playlist.m3u8
-#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Música",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="3659b7cd1b61" tvg-name="Super Marajoara 89,9 FM" tvg-country="BR" tvg-language="Português" group-title="Música",Super Marajoara 89,9 FM
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="05962c75f72c" tvg-name="TV Atividade" tvg-country="BR" tvg-language="Português" group-title="Música",TV Atividade
@@ -667,6 +661,8 @@ https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="97bc665c12f7" tvg-name="TV Cidade Oeste" tvg-country="BR" tvg-language="Português" group-title="Música",TV Cidade Oeste
 https://video07.logicahost.com.br/tvcidadeoeste/tvcidadeoeste/playlist.m3u8
+#EXTINF:-1 tvg-id="194977d885fd" tvg-name="TV Clube RN" tvg-country="BR" tvg-language="Português" group-title="Música",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Música",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="0d6ce32ce676" tvg-name="TV Feliz" tvg-country="BR" tvg-language="Português" group-title="Música",TV Feliz
@@ -681,8 +677,6 @@ https://canalteste.duckdns.org/app/tvgrandenatalhdtv/llhls.m3u8
 https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
 #EXTINF:-1 tvg-id="4b90dfd2633d" tvg-name="Tv Jampa Jovens" tvg-country="BR" tvg-language="Português" group-title="Música",Tv Jampa Jovens
 https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8
-#EXTINF:-1 tvg-id="a22738e3d096" tvg-name="TV Maceió" tvg-country="BR" tvg-language="Português" group-title="Música",TV Maceió
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="b42db60e38a6" tvg-name="Tv Manchete" tvg-country="BR" tvg-language="Português" group-title="Música",Tv Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="e1abe58cedfa" tvg-name="Tv Mix Belém 100.9 FM" tvg-country="BR" tvg-language="Português" group-title="Música",Tv Mix Belém 100.9 FM
@@ -714,17 +708,21 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="7214f9cdbae5" tvg-name="Araruna TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Notícias",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg3MCwibmJmIjoxNzkzNjMxODcwLCJleHAiOjE3OTYyMjM4NzAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.9FB_XVTDySjq1H8dBmBTJ5DTsVsXvGiwAy45xSyWaBE&uid=7595c59e-314d-4c7d-86be-db6d3100373d
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg3MiwibmJmIjoxNzkzNjY2ODcyLCJleHAiOjE3OTYyNTg4NzIsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-InHcvOznmxgYdaGYLFDjUnbPc91UAoLtkNMYD7d4os&uid=e413ed94-39c6-418c-9142-ea0c863c8df2
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Notícias",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg5MywibmJmIjoxNzkzNjMxODkzLCJleHAiOjE3OTYyMjM4OTMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.8Z317I-d-gOzijlaa2mrH26MuapqoWukZ9CstdilJBw&uid=8446f147-c114-4130-b354-708ff348aff2
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg5NywibmJmIjoxNzkzNjY2ODk3LCJleHAiOjE3OTYyNTg4OTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.1qKgGBi0Xa5ao5_Bz9HtOrJxzDYbXGTQAp45UMQ0-3M&uid=5dcc1b44-0672-481d-9b42-f4b2a2c041ce
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Notícias",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Notícias",Bem Mais Tv
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="3d9d8a8f01fd" tvg-name="Canal Bem Melhor" tvg-country="BR" tvg-language="Português" group-title="Notícias",Canal Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 tvg-id="3a3b78af28f6" tvg-name="Canal FDR" tvg-country="BR" tvg-language="Português" group-title="Notícias",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="dda4aad0e63b" tvg-name="Cariri TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Cariri TV
 https://video05.logicahost.com.br/cariritv/cariritv/playlist.m3u8
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Notícias",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="42cfaedf13ff" tvg-name="Educativa MS" tvg-country="BR" tvg-language="Português" group-title="Notícias",Educativa MS
 https://stream01.digilab.com.br/fertel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="429f999bea3b" tvg-name="Fonte TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Fonte TV
@@ -755,6 +753,8 @@ https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede CNT Belém
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(wjz1aISVS7uugrgFE_V5uOJR2RwUwNHh_EcTnli6OsAl4wfFjsOOZkM0yOHJBhS9ZixIFhp51GbYj-Mlo0NAN6hqFvLYCgrTy8JweJNX3Dv7V5SdDNbtqFWG6G-iL5SVvewGsQHFQs7kcO4ookVxIRx5f8qeHBJtkXIYCQTphzHaLC5A9wQPAreuFoWLvXIc)/cloud/3/x9zdt9s/d/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Minas
@@ -769,8 +769,12 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
 #EXTINF:-1 tvg-id="e07461ef766b" tvg-name="RIT TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",RIT TV
 https://stream.ecast.com.br/rit-tv/index.m3u8
+#EXTINF:-1 tvg-id="77a892c26ccb" tvg-name="RS News Sports 2" tvg-country="BR" tvg-language="Português" group-title="Notícias",RS News Sports 2
+https://video03.logicahost.com.br/rssports2/rssports2/playlist.m3u8
 #EXTINF:-1 tvg-id="af5b079d0211" tvg-name="RS News Sports 4" tvg-country="BR" tvg-language="Português" group-title="Notícias",RS News Sports 4
 https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
+#EXTINF:-1 tvg-id="d92e115fe828" tvg-name="RS News Sports 5" tvg-country="BR" tvg-language="Português" group-title="Notícias",RS News Sports 5
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 #EXTINF:-1 tvg-id="fc295e5a1513" tvg-name="RS SPORTS" tvg-country="BR" tvg-language="Português" group-title="Notícias",RS SPORTS
 https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 #EXTINF:-1 tvg-id="43730d7227b2" tvg-name="RTV Canal 38" tvg-country="BR" tvg-language="Português" group-title="Notícias",RTV Canal 38
@@ -795,8 +799,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="e10b5b85ad1d" tvg-name="Tv Assembléia Bahia (TV ALBA)" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Assembléia Bahia (TV ALBA)
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7a02c85f443d" tvg-name="Tv Assembléia Ceará" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Assembléia Ceará
-https://streaming.viralmidia.com/hls/stream1/index.m3u8
 #EXTINF:-1 tvg-id="28da69353bdc" tvg-name="Tv Assembléia MT" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Assembléia MT
 https://owncast.al.mt.gov.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="c30fed28276f" tvg-name="Tv Assembléia RN" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Assembléia RN
@@ -815,6 +817,8 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:-1 tvg-id="11011162cdcc" tvg-name="TV Capital Canal Promessas" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Capital Canal Promessas
 https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
+#EXTINF:-1 tvg-id="43f731816cca" tvg-name="TV Cidade" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Cidade
+https://stream.ichibansys.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-id="3c340495f651" tvg-name="TV Cidade 10" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Cidade 10
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 #EXTINF:-1 tvg-id="0d6911666ee8" tvg-name="Tv Cidade Brasil" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Cidade Brasil
@@ -823,12 +827,12 @@ https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 https://video07.logicahost.com.br/tvcidadeoeste/tvcidadeoeste/playlist.m3u8
 #EXTINF:-1 tvg-id="4961b1c20b4a" tvg-name="TV Cidade Verde (SBT PI)" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Cidade Verde (SBT PI)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="194977d885fd" tvg-name="TV Clube RN" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
 #EXTINF:-1 tvg-id="ee7d166b74e5" tvg-name="Tv Clube Web" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="0677574a05b1" tvg-name="Tv COM Brasil" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="bd71100fb1dc" tvg-name="TV COM Maceió" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV COM Maceió
-https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="a209b16a326a" tvg-name="TV Conquista (Rede Record)" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Conquista (Rede Record)
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Cultura
@@ -843,16 +847,20 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 https://video01.brascast.com/82b92cec/82b92cec/playlist.m3u8
 #EXTINF:-1 tvg-id="0d6ce32ce676" tvg-name="TV Feliz" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 tvg-id="a69f4cf7e65e" tvg-name="TV Foz - Linhares" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Foz - Linhares
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="8ec172369333" tvg-name="Tv Foz – Cachoeiro" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Foz – Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="1e9cbb2a28fd" tvg-name="Tv Foz – São Mateus" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Foz – São Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="1192e9236476" tvg-name="Tv Foz – Vitória" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Foz – Vitória
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="63ba2535ae81" tvg-name="TV Galega" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="b811f3b3c2b9" tvg-name="Tv Gallo" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NaY1ns6yhkX-e04z62GbbaLz3c1QrI8SDV0OYCneyxeM6Z04LP9BmKuHa8FxznpNAYf5xz39xn8kfM4A_pxtb1zYA7HI1rJIiOGCa9WtbweaGn2Xbrn4_eZPI0frfCSs)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(n0zVOgIozOzjb-X4qIBCJQtlQIEHj80GgrLe1IzzeoKGH352jVID6rNWaYH0bWlLty8WjV_4hUyNImTEsS5btVjs8Xgz70UtBd0aUa9NnVQDUMHMn3zObOE9CtsOAG24)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="5794a4ab1d30" tvg-name="TV Gazeta Norte de Minas" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Gazeta Norte de Minas
 https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-id="5dea4caa80d2" tvg-name="TV Gaúcha" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Gaúcha
@@ -893,8 +901,6 @@ https://isaocorp.cloudecast.com/redemeio/index.m3u8
 https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 #EXTINF:-1 tvg-id="0aaebd6a62bb" tvg-name="TV Mocinha" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Mocinha
 https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
-#EXTINF:-1 tvg-id="72c8f0b5a196" tvg-name="TV Montanhesa" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Montanhesa
-https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 #EXTINF:-1 tvg-id="63764c0aa518" tvg-name="TV Na Ativa" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Na Ativa
 https://webtv.naativa.org/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="346fa46e9c40" tvg-name="TV NBN" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV NBN
@@ -909,8 +915,8 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1 tvg-id="07a79199b825" tvg-name="TV Pampa (Rede TV RS)" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Pampa (Rede TV RS)
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="ec258a13876b" tvg-name="TV Paraná Turismo (Cultura PR)" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Paraná Turismo (Cultura PR)
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 tvg-id="af1b14bbe7ea" tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Petrópolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="2ea4b39a906c" tvg-name="Tv Plug" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Plug
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8
 #EXTINF:-1 tvg-id="d3ea979e7483" tvg-name="Tv Ponta Verde" tvg-country="BR" tvg-language="Português" group-title="Notícias",Tv Ponta Verde
@@ -935,6 +941,8 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
 #EXTINF:-1 tvg-id="33724dbaae0b" tvg-name="TV Verdes Campos Sat" tvg-country="BR" tvg-language="Português" group-title="Notícias",TV Verdes Campos Sat
 https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8
+#EXTINF:-1 tvg-id="32bc7c17bf1f" tvg-name="TVC - TV Concórdia" tvg-country="BR" tvg-language="Português" group-title="Notícias",TVC - TV Concórdia
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-id="0d33d93a1bc8" tvg-name="TVC 16 - Tv Cidade Petrópolis" tvg-country="BR" tvg-language="Português" group-title="Notícias",TVC 16 - Tv Cidade Petrópolis
 https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 #EXTINF:-1 tvg-id="42f56e2c6f98" tvg-name="TVC Brasil de Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",TVC Brasil de Notícias
@@ -971,8 +979,6 @@ https://live.stream.al.ms.gov.br/memfs/936d09fa-2827-4002-a58f-085c1826aab9.m3u8
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF:-1 tvg-id="e10b5b85ad1d" tvg-name="Tv Assembléia Bahia (TV ALBA)" tvg-country="BR" tvg-language="Português" group-title="Publicos",Tv Assembléia Bahia (TV ALBA)
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7a02c85f443d" tvg-name="Tv Assembléia Ceará" tvg-country="BR" tvg-language="Português" group-title="Publicos",Tv Assembléia Ceará
-https://streaming.viralmidia.com/hls/stream1/index.m3u8
 #EXTINF:-1 tvg-id="f7ade6358939" tvg-name="TV Assembléia Goiás" tvg-country="BR" tvg-language="Português" group-title="Publicos",TV Assembléia Goiás
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="28da69353bdc" tvg-name="Tv Assembléia MT" tvg-country="BR" tvg-language="Português" group-title="Publicos",Tv Assembléia MT
@@ -1018,7 +1024,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Televendas",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NaY1ns6yhkX-e04z62GbbaLz3c1QrI8SDV0OYCneyxeM6Z04LP9BmKuHa8FxznpNAYf5xz39xn8kfM4A_pxtb1zYA7HI1rJIiOGCa9WtbweaGn2Xbrn4_eZPI0frfCSs)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(n0zVOgIozOzjb-X4qIBCJQtlQIEHj80GgrLe1IzzeoKGH352jVID6rNWaYH0bWlLty8WjV_4hUyNImTEsS5btVjs8Xgz70UtBd0aUa9NnVQDUMHMn3zObOE9CtsOAG24)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="45cb03f1668e" tvg-name="Tv Tudo BH" tvg-country="BR" tvg-language="Português" group-title="Televendas",Tv Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 #EXTINF:-1 tvg-id="88ba179785b3" tvg-name="TVCI" tvg-country="BR" tvg-language="Português" group-title="Televendas",TVCI
@@ -1049,6 +1055,8 @@ https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="e0af8aad9b1c" tvg-name="TV Diário Do Sertão" tvg-country="BR" tvg-language="Português" group-title="Tempo",TV Diário Do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 tvg-id="a69f4cf7e65e" tvg-name="TV Foz - Linhares" tvg-country="BR" tvg-language="Português" group-title="Tempo",TV Foz - Linhares
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="973c1d4cb508" tvg-name="TV Jovem Pan News" tvg-country="BR" tvg-language="Português" group-title="Tempo",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="1c876c97903c" tvg-name="TV Metropole" tvg-country="BR" tvg-language="Português" group-title="Tempo",TV Metropole
@@ -1068,9 +1076,9 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Variedades",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg3MCwibmJmIjoxNzkzNjMxODcwLCJleHAiOjE3OTYyMjM4NzAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6Ijc1OTVjNTllLTMxNGQtNGM3ZC04NmJlLWRiNmQzMTAwMzczZCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.9FB_XVTDySjq1H8dBmBTJ5DTsVsXvGiwAy45xSyWaBE&uid=7595c59e-314d-4c7d-86be-db6d3100373d
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg3MiwibmJmIjoxNzkzNjY2ODcyLCJleHAiOjE3OTYyNTg4NzIsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImU0MTNlZDk0LTM5YzYtNDE4Yy05MTQyLWVhMGM4NjNjOGRmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-InHcvOznmxgYdaGYLFDjUnbPc91UAoLtkNMYD7d4os&uid=e413ed94-39c6-418c-9142-ea0c863c8df2
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Variedades",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzYzMTg5MywibmJmIjoxNzkzNjMxODkzLCJleHAiOjE3OTYyMjM4OTMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6Ijg0NDZmMTQ3LWMxMTQtNDEzMC1iMzU0LTcwOGZmMzQ4YWZmMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.8Z317I-d-gOzijlaa2mrH26MuapqoWukZ9CstdilJBw&uid=8446f147-c114-4130-b354-708ff348aff2
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzY2Njg5NywibmJmIjoxNzkzNjY2ODk3LCJleHAiOjE3OTYyNTg4OTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjVkY2MxYjQ0LTA2NzItNDgxZC05YjQyLWY0YjJhMmMwNDFjZSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.1qKgGBi0Xa5ao5_Bz9HtOrJxzDYbXGTQAp45UMQ0-3M&uid=5dcc1b44-0672-481d-9b42-f4b2a2c041ce
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Variedades",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Variedades",Bem Mais Tv
@@ -1125,6 +1133,8 @@ https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede CNT Belém
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(wjz1aISVS7uugrgFE_V5uOJR2RwUwNHh_EcTnli6OsAl4wfFjsOOZkM0yOHJBhS9ZixIFhp51GbYj-Mlo0NAN6hqFvLYCgrTy8JweJNX3Dv7V5SdDNbtqFWG6G-iL5SVvewGsQHFQs7kcO4ookVxIRx5f8qeHBJtkXIYCQTphzHaLC5A9wQPAreuFoWLvXIc)/cloud/3/x9zdt9s/d/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Minas
@@ -1175,12 +1185,16 @@ https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
 #EXTINF:-1 tvg-id="6ba746a24fca" tvg-name="Tv Carioca Internacional" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Carioca Internacional
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="43f731816cca" tvg-name="TV Cidade" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Cidade
+https://stream.ichibansys.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-id="0d6911666ee8" tvg-name="Tv Cidade Brasil" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="1e584aa6db43" tvg-name="TV Cidade Verde" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="4961b1c20b4a" tvg-name="TV Cidade Verde (SBT PI)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Cidade Verde (SBT PI)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="194977d885fd" tvg-name="TV Clube RN" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
 #EXTINF:-1 tvg-id="ee7d166b74e5" tvg-name="Tv Clube Web" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
@@ -1203,20 +1217,24 @@ https://video01.brascast.com/82b92cec/82b92cec/playlist.m3u8
 https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8
 #EXTINF:-1 tvg-id="0d6ce32ce676" tvg-name="TV Feliz" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 tvg-id="a69f4cf7e65e" tvg-name="TV Foz - Linhares" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Foz - Linhares
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="8ec172369333" tvg-name="Tv Foz – Cachoeiro" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Foz – Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="1e9cbb2a28fd" tvg-name="Tv Foz – São Mateus" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Foz – São Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="1192e9236476" tvg-name="Tv Foz – Vitória" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Foz – Vitória
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="b811f3b3c2b9" tvg-name="Tv Gallo" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NaY1ns6yhkX-e04z62GbbaLz3c1QrI8SDV0OYCneyxeM6Z04LP9BmKuHa8FxznpNAYf5xz39xn8kfM4A_pxtb1zYA7HI1rJIiOGCa9WtbweaGn2Xbrn4_eZPI0frfCSs)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(n0zVOgIozOzjb-X4qIBCJQtlQIEHj80GgrLe1IzzeoKGH352jVID6rNWaYH0bWlLty8WjV_4hUyNImTEsS5btVjs8Xgz70UtBd0aUa9NnVQDUMHMn3zObOE9CtsOAG24)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="2767ae8bd4ce" tvg-name="TV Gazeta GO" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta GO
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-id="5794a4ab1d30" tvg-name="TV Gazeta Norte de Minas" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta Norte de Minas
 https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-id="f06afd336665" tvg-name="TV Gazeta RN" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta RN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(acEbLzc1PpshODAhIn7nQvHpdgg9IhaYscs4ZOXo_nNuqOSmoe5NxmFyehECGWaqqju5YMuth61y9bpZ_zR89T5AKW9hnZKgURckZnXhld4a6Mf_QdCe7_x1UaT1CS8F)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(huM2GeuNJ98s1Y-xQaiT3noCLV_63M5UCTiOH1R_-5ipOpDRyHLpUmgayPbesixfoY_1Q3rJYOCN3xwfm8tv4RhH8PeDA2Vey8KYvJsRVOdO9Ed2nSRvMJyQpYuArhyi)/dm/3/x9xwtpy/s/live-240.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 #EXTINF:-1 tvg-id="5dea4caa80d2" tvg-name="TV Gaúcha" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTINF:-1 tvg-id="772e106c4daa" tvg-name="Tv Goitacá" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Goitacá
@@ -1259,8 +1277,6 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 #EXTINF:-1 tvg-id="2ceffe6f5472" tvg-name="TV MON" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV MON
 https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 tvg-id="72c8f0b5a196" tvg-name="TV Montanhesa" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Montanhesa
-https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 #EXTINF:-1 tvg-id="63764c0aa518" tvg-name="TV Na Ativa" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Na Ativa
 https://webtv.naativa.org/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="346fa46e9c40" tvg-name="TV NBN" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV NBN
@@ -1285,6 +1301,8 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w159584
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-id="d175a57a99d6" tvg-name="Tv Passo Fundo" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="af1b14bbe7ea" tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Petrópolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="8cfce44f8ea0" tvg-name="TV Plan" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Plan
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2ea4b39a906c" tvg-name="Tv Plug" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Plug
@@ -1324,7 +1342,7 @@ https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:-1 tvg-id="88ba179785b3" tvg-name="TVCI" tvg-country="BR" tvg-language="Português" group-title="Variedades",TVCI
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 #EXTINF:-1 tvg-id="6001f6065895" tvg-name="TVG - Tv Várzea Grande" tvg-country="BR" tvg-language="Português" group-title="Variedades",TVG - Tv Várzea Grande
-https://usher.ttvnw.net/api/channel/hls/tvvarzeagrande.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiYTlkZTk5MjktZmU4NS00ZjlkLTllYjUtMmU0YmIyYmM2MjNhIiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3BsYXllci50d2l0Y2gudHYvIn0%3D&allow_source=true&browser_family=chrome&browser_version=140.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&lang=pt-br&os_name=Windows&os_version=NT%2010.0&p=1397577&parent_domains=twitchplayer&platform=web&play_session_id=5a6379c051c84a85a1722becb571ceca&player_backend=mediaplayer&player_version=1.58.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=42716b4c6b51d5dde189be95e2fb8c06b8798cdf&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvvarzeagrande%22%2C%22channel_id%22%3A854986305%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2214eaf7b4d57d6abd%22%2C%22expires%22%3A1793634585%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22130.131.215.84%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+https://usher.ttvnw.net/api/channel/hls/tvvarzeagrande.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNzY5NmZkMTgtMWViOS00YWNmLWFhNmEtNjA2ZDEwN2Y3ZWQ3IiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3BsYXllci50d2l0Y2gudHYvIn0%3D&allow_source=true&browser_family=chrome&browser_version=140.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&lang=pt-br&os_name=Windows&os_version=NT%2010.0&p=7545992&parent_domains=twitchplayer&platform=web&play_session_id=12b394188b92452d8e7099a62b1aa4ad&player_backend=mediaplayer&player_version=1.58.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=46a4d6b39b403390db5babb5a0f4e41b884f49af&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvvarzeagrande%22%2C%22channel_id%22%3A854986305%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222bcd291cd1e313fa%22%2C%22expires%22%3A1793669636%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2220.171.4.212%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-id="96f44381ea8d" tvg-name="TVM Pará" tvg-country="BR" tvg-language="Português" group-title="Variedades",TVM Pará
 https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
 #EXTINF:-1 tvg-id="d1ebe0e03839" tvg-name="UnBTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",UnBTV
