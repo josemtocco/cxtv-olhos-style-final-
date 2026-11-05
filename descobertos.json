@@ -193,7 +193,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pr",
       "status": 200,
-      "bytes": 52305,
+      "bytes": 52423,
       "fonte": "http",
       "descobertos": 20,
       "esperados_no_site": 44
@@ -201,7 +201,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/mg",
       "status": 200,
-      "bytes": 51956,
+      "bytes": 52073,
       "fonte": "http",
       "descobertos": 20,
       "esperados_no_site": 63
@@ -3543,5 +3543,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-05T05:28:28Z"
+  "atualizado_em": "2026-11-05T14:15:55Z"
 }
