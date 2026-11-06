@@ -25,10 +25,10 @@
     }
   },
   "paginas": {
-    "https://www.cxtv.com.br/tv/paises/tvs-brasil": 24,
+    "https://www.cxtv.com.br/tv/paises/tvs-brasil": 26,
     "https://www.cxtv.com.br/tv/estados/rs": 24,
-    "https://www.cxtv.com.br/tv/estados/rj": 24,
-    "https://www.cxtv.com.br/tv/estados/sp": 24,
+    "https://www.cxtv.com.br/tv/estados/rj": 25,
+    "https://www.cxtv.com.br/tv/estados/sp": 25,
     "https://www.cxtv.com.br/tv/estados/sc": 24,
     "https://www.cxtv.com.br/tv/estados/pr": 24,
     "https://www.cxtv.com.br/tv/estados/mg": 24,
@@ -54,12 +54,12 @@
       "nome": "Rio Grande do Sul"
     },
     "rj": {
-      "descobertos": 24,
+      "descobertos": 25,
       "esperados_no_site": 58,
       "nome": "Rio de Janeiro"
     },
     "sp": {
-      "descobertos": 24,
+      "descobertos": 25,
       "esperados_no_site": 212,
       "nome": "São Paulo"
     },
@@ -153,15 +153,15 @@
     {
       "url": "https://www.cxtv.com.br/tv/paises/tvs-brasil",
       "status": 200,
-      "bytes": 73279,
+      "bytes": 73952,
       "fonte": "http",
-      "descobertos": 24,
+      "descobertos": 26,
       "esperados_no_site": 20
     },
     {
       "url": "https://www.cxtv.com.br/tv/estados/rs",
       "status": 200,
-      "bytes": 68343,
+      "bytes": 68544,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 54
@@ -169,23 +169,23 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rj",
       "status": 200,
-      "bytes": 68545,
+      "bytes": 69064,
       "fonte": "http",
-      "descobertos": 24,
+      "descobertos": 25,
       "esperados_no_site": 58
     },
     {
       "url": "https://www.cxtv.com.br/tv/estados/sp",
       "status": 200,
-      "bytes": 68548,
+      "bytes": 69185,
       "fonte": "http",
-      "descobertos": 24,
+      "descobertos": 25,
       "esperados_no_site": 212
     },
     {
       "url": "https://www.cxtv.com.br/tv/estados/sc",
       "status": 200,
-      "bytes": 68117,
+      "bytes": 68318,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 39
@@ -193,7 +193,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pr",
       "status": 200,
-      "bytes": 68150,
+      "bytes": 68345,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 44
@@ -201,7 +201,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/mg",
       "status": 200,
-      "bytes": 68255,
+      "bytes": 68456,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 63
@@ -209,7 +209,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ce",
       "status": 200,
-      "bytes": 67825,
+      "bytes": 68026,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 32
@@ -217,7 +217,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ba",
       "status": 200,
-      "bytes": 68159,
+      "bytes": 68677,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 34
@@ -225,7 +225,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pa",
       "status": 200,
-      "bytes": 62513,
+      "bytes": 62714,
       "fonte": "http",
       "descobertos": 19,
       "esperados_no_site": 21
@@ -233,7 +233,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pb",
       "status": 200,
-      "bytes": 65978,
+      "bytes": 66179,
       "fonte": "http",
       "descobertos": 22,
       "esperados_no_site": 24
@@ -241,7 +241,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rn",
       "status": 200,
-      "bytes": 63538,
+      "bytes": 63739,
       "fonte": "http",
       "descobertos": 20,
       "esperados_no_site": 22
@@ -249,7 +249,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pi",
       "status": 200,
-      "bytes": 57919,
+      "bytes": 58120,
       "fonte": "http",
       "descobertos": 14,
       "esperados_no_site": 15
@@ -257,7 +257,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/df",
       "status": 200,
-      "bytes": 64306,
+      "bytes": 64507,
       "fonte": "http",
       "descobertos": 21,
       "esperados_no_site": 22
@@ -265,7 +265,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/mt",
       "status": 200,
-      "bytes": 63324,
+      "bytes": 63525,
       "fonte": "http",
       "descobertos": 19,
       "esperados_no_site": 21
@@ -273,7 +273,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ms",
       "status": 200,
-      "bytes": 57725,
+      "bytes": 57926,
       "fonte": "http",
       "descobertos": 14,
       "esperados_no_site": 14
@@ -281,7 +281,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/go",
       "status": 200,
-      "bytes": 62784,
+      "bytes": 62985,
       "fonte": "http",
       "descobertos": 19,
       "esperados_no_site": 20
@@ -289,7 +289,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/es",
       "status": 200,
-      "bytes": 60135,
+      "bytes": 60336,
       "fonte": "http",
       "descobertos": 16,
       "esperados_no_site": 17
@@ -297,7 +297,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/am",
       "status": 200,
-      "bytes": 54073,
+      "bytes": 54274,
       "fonte": "http",
       "descobertos": 10,
       "esperados_no_site": 10
@@ -305,7 +305,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/al",
       "status": 200,
-      "bytes": 54886,
+      "bytes": 55087,
       "fonte": "http",
       "descobertos": 11,
       "esperados_no_site": 11
@@ -313,13 +313,13 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ma",
       "status": 200,
-      "bytes": 60212,
+      "bytes": 60413,
       "fonte": "http",
       "descobertos": 16,
       "esperados_no_site": 17
     }
   ],
-  "canais_unicos": 399,
+  "canais_unicos": 402,
   "canais": [
     "https://www.cxtv.com.br/tv-ao-vivo/1001-noites",
     "https://www.cxtv.com.br/tv-ao-vivo/agro-canal",
@@ -473,12 +473,14 @@
     "https://www.cxtv.com.br/tv-ao-vivo/tv-adorador-gospel",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-adorando-jesus",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-alagonet",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-alerj",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-alternativa-gazeta-ma",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-alterosa-sbt-bh",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-amplitude-juara",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-amplitude-juina",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-andradas",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-antena-10",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-aparecida",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-aracati-hd",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-arapuan-rede-tv-pb",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-aratu-sbt-bahia",
@@ -493,6 +495,7 @@
     "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-porto-alegre",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-rn",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-sc",
+    "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-sp-tv-alesp",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-assu",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-atividade",
     "https://www.cxtv.com.br/tv-ao-vivo/tv-avivando-nacoes",
@@ -895,336 +898,336 @@
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Variedades\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Variedades\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Notícias\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Notícias\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Cultura\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Cultura\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Esportes\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Esportes\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Filmes\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Filmes\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Desenhos\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Desenhos\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Seriados\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Seriados\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Publicos\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Publicos\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Música\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Música\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Educativos\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Educativos\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Futebol\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Futebol\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Alta Definição\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "rj",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - RJ\" \"Alta Definição\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Variedades\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Variedades\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Notícias\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Notícias\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Cultura\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Cultura\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Esportes\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Esportes\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Filmes\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Filmes\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Desenhos\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Desenhos\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Seriados\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Seriados\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Publicos\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Publicos\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Música\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Música\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Educativos\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Educativos\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Futebol\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Futebol\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Alta Definição\"",
       "pagina": 1,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sp",
       "consulta": "site:cxtv.com.br/tv-ao-vivo \"Brasil - SP\" \"Alta Definição\"",
       "pagina": 2,
       "encontrados": 0,
-      "total_estado": 24
+      "total_estado": 25
     },
     {
       "uf": "sc",
@@ -3579,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-06T05:27:29Z"
+  "atualizado_em": "2026-11-06T14:01:12Z"
 }
