@@ -161,7 +161,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rs",
       "status": 200,
-      "bytes": 71194,
+      "bytes": 71215,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 54
@@ -241,7 +241,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rn",
       "status": 200,
-      "bytes": 66389,
+      "bytes": 66410,
       "fonte": "http",
       "descobertos": 20,
       "esperados_no_site": 22
@@ -3582,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-07T12:43:06Z"
+  "atualizado_em": "2026-11-07T21:41:31Z"
 }
