@@ -225,7 +225,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/pa",
       "status": 200,
-      "bytes": 112218,
+      "bytes": 112239,
       "fonte": "http",
       "descobertos": 19,
       "esperados_no_site": 21
@@ -257,7 +257,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/df",
       "status": 200,
-      "bytes": 114031,
+      "bytes": 114050,
       "fonte": "http",
       "descobertos": 21,
       "esperados_no_site": 22
@@ -3582,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-19T06:13:25Z"
+  "atualizado_em": "2026-11-19T15:52:57Z"
 }
