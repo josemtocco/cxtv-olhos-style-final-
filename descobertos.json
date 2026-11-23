@@ -161,7 +161,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rs",
       "status": 200,
-      "bytes": 118042,
+      "bytes": 118084,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 54
@@ -169,7 +169,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/rj",
       "status": 200,
-      "bytes": 118567,
+      "bytes": 118588,
       "fonte": "http",
       "descobertos": 25,
       "esperados_no_site": 58
@@ -281,7 +281,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/go",
       "status": 200,
-      "bytes": 112532,
+      "bytes": 112525,
       "fonte": "http",
       "descobertos": 19,
       "esperados_no_site": 20
@@ -3582,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-23T06:06:00Z"
+  "atualizado_em": "2026-11-23T17:43:29Z"
 }
