@@ -217,7 +217,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/ba",
       "status": 200,
-      "bytes": 118180,
+      "bytes": 118200,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 34
@@ -265,7 +265,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/mt",
       "status": 200,
-      "bytes": 113028,
+      "bytes": 113049,
       "fonte": "http",
       "descobertos": 19,
       "esperados_no_site": 21
@@ -3582,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-24T04:02:57Z"
+  "atualizado_em": "2026-11-24T17:14:19Z"
 }
