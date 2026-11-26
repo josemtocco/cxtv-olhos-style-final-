@@ -185,7 +185,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/sc",
       "status": 200,
-      "bytes": 117798,
+      "bytes": 117817,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 39
@@ -3582,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-26T01:50:04Z"
+  "atualizado_em": "2026-11-26T16:41:40Z"
 }
