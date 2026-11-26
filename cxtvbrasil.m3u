@@ -62,7 +62,7 @@ https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlis
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Católica",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Católica",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="4171d3216ca2" tvg-name="Betelhost Sertanejo" tvg-country="BR" tvg-language="Português" group-title="Católica",Betelhost Sertanejo
 https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8
 #EXTINF:-1 tvg-id="fd8865778a81" tvg-name="Blink 102 FM" tvg-country="BR" tvg-language="Português" group-title="Católica",Blink 102 FM
@@ -92,7 +92,7 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="b26a7b2cb275" tvg-name="RCTV Brasil" tvg-country="BR" tvg-language="Português" group-title="Católica",RCTV Brasil
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Católica",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Católica",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="a9a816d364f4" tvg-name="Rede Mundo TV" tvg-country="BR" tvg-language="Português" group-title="Católica",Rede Mundo TV
@@ -144,11 +144,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Cultura",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Cultura",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Cultura",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Cultura",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Cultura",Bem Mais Tv
@@ -215,8 +215,6 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="566733bafc33" tvg-name="Nova Era TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Nova Era TV
 https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="fa5b6670cd03" tvg-name="O Dia Tv" tvg-country="BR" tvg-language="Português" group-title="Cultura",O Dia Tv
-https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="c4c50bf7bc17" tvg-name="ORTV Filmes e Variedades" tvg-country="BR" tvg-language="Português" group-title="Cultura",ORTV Filmes e Variedades
 https://tv.ortv.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="898de4a6c022" tvg-name="ORTVWEB" tvg-country="BR" tvg-language="Português" group-title="Cultura",ORTVWEB
@@ -243,14 +241,18 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Cultura",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="d3f80fccff0e" tvg-name="Rede MultTV" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede MultTV
@@ -316,11 +318,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Desenhos",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Bem Mais Tv
@@ -425,14 +427,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Rede Minas
@@ -504,11 +512,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Documentários",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Documentários",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Documentários",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Documentários",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Documentários",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Documentários",Bem Mais Tv
@@ -613,14 +621,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Documentários",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Documentários",Rede Minas
@@ -680,9 +694,9 @@ https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlis
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Educativos",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Educativos",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Educativos",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Educativos",Bem Mais Tv
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="3d9d8a8f01fd" tvg-name="Canal Bem Melhor" tvg-country="BR" tvg-language="Português" group-title="Educativos",Canal Bem Melhor
@@ -747,10 +761,14 @@ https://www.cxtv.com.br/proxy.php?url=http://177.74.174.57:8080/hls/primertv.m3u
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-id="b26a7b2cb275" tvg-name="RCTV Brasil" tvg-country="BR" tvg-language="Português" group-title="Educativos",RCTV Brasil
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Educativos",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Educativos",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Educativos",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Educativos",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="d3f80fccff0e" tvg-name="Rede MultTV" tvg-country="BR" tvg-language="Português" group-title="Educativos",Rede MultTV
 https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
 #EXTINF:-1 tvg-id="a9a816d364f4" tvg-name="Rede Mundo TV" tvg-country="BR" tvg-language="Português" group-title="Educativos",Rede Mundo TV
@@ -794,11 +812,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Esportes",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Esportes",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Esportes",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Esportes",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Esportes",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Esportes",Bem Mais Tv
@@ -903,14 +921,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Esportes",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Esportes",Rede Minas
@@ -974,7 +998,7 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Evangélica",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="4171d3216ca2" tvg-name="Betelhost Sertanejo" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Betelhost Sertanejo
@@ -1017,18 +1041,22 @@ https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="d3f80fccff0e" tvg-name="Rede MultTV" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede MultTV
 https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
+#EXTINF:-1 tvg-id="aef5b71f1208" tvg-name="Rede NGT" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="120b13a939bf" tvg-name="Rede Sempre TV" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede Sempre TV
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 #EXTINF:-1 tvg-id="6dbf056d0946" tvg-name="Rede Super" tvg-country="BR" tvg-language="Português" group-title="Evangélica",Rede Super
@@ -1070,11 +1098,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Filmes",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Filmes",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Filmes",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Filmes",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Filmes",Bem Mais Tv
@@ -1179,14 +1207,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Filmes",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Minas
@@ -1258,11 +1292,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Futebol",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Futebol",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Futebol",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Futebol",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Futebol",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Futebol",Bem Mais Tv
@@ -1367,14 +1401,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Futebol",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Futebol",Rede Minas
@@ -1450,11 +1490,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Música",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Música",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Música",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Música",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Música",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Música",Bem Mais Tv
@@ -1559,14 +1599,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Música",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Música",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Música",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Música",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Música",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Música",Rede Minas
@@ -1638,11 +1684,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Notícias",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Notícias",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Notícias",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Notícias",Bem Mais Tv
@@ -1747,14 +1793,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Notícias",Rede Minas
@@ -1826,11 +1878,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Novelas",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Novelas",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Novelas",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Novelas",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Novelas",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Novelas",Bem Mais Tv
@@ -1935,14 +1987,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Novelas",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Novelas",Rede Minas
@@ -2000,7 +2058,7 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="3f53060b5564" tvg-name="TV Universal" tvg-country="BR" tvg-language="Português" group-title="Novelas",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Publicos",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Publicos",Bem Mais Tv
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="4171d3216ca2" tvg-name="Betelhost Sertanejo" tvg-country="BR" tvg-language="Português" group-title="Publicos",Betelhost Sertanejo
@@ -2033,6 +2091,8 @@ https://rtisoluctions.com.br/hls/test.m3u8
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-id="cef537f80817" tvg-name="RBTV" tvg-country="BR" tvg-language="Português" group-title="Publicos",RBTV
 https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Publicos",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Publicos",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="6dbf056d0946" tvg-name="Rede Super" tvg-country="BR" tvg-language="Português" group-title="Publicos",Rede Super
@@ -2070,11 +2130,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Seriados",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Seriados",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Seriados",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Seriados",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Seriados",Bem Mais Tv
@@ -2179,14 +2239,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Seriados",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Minas
@@ -2257,8 +2323,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://www.cxtv.com.br/proxy.php?url=http://177.74.174.57:8080/hls/primertv.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Tempo",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Tempo",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Tempo",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="59d38a9bca2e" tvg-name="Runtime Ação" tvg-country="BR" tvg-language="Português" group-title="Tempo",Runtime Ação
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:-1 tvg-id="31a88fade121" tvg-name="1001 Noites" tvg-country="BR" tvg-language="Português" group-title="Variedades",1001 Noites
@@ -2276,11 +2342,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="a21df3710884" tvg-name="Baiana TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Baiana TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="8a1c9862f363" tvg-name="Band Bahia" tvg-country="BR" tvg-language="Português" group-title="Variedades",Band Bahia
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1NzgzMywibmJmIjoxNzk1NjU3ODMzLCJleHAiOjE3OTgyNDk4MzMsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImE3Nzc2NTMxLTYxMGYtNDZlNy1hYmMwLTBjMTI1NGE0NDk3MyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CshuJlR3uxttZl9B8IyP-9GhGvoVxcZFCZWRPxJB_Y0&uid=a7776531-610f-46e7-abc0-0c1254a44973
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM0MCwibmJmIjoxNzk1NzExMzQwLCJleHAiOjE3OTgzMDMzNDAsInVyaV9zdWIiOiIvMDE5NmZmMWUtOGJiYy03NmQ5LWJjZGEtY2ZlNThjMmIwYmU2LyIsInVpZCI6ImM4NDZiOTViLTZiZmEtNGJlMi05YTMwLTA5NDM4NDBkZmJjMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.UlCOId1pNDM_CBj2SEdpkwttthSjairUrf_kfuTusYk&uid=c846b95b-6bfa-4be2-9a30-0943840dfbc2
 #EXTINF:-1 tvg-id="8b89ca77d6b7" tvg-name="Band News" tvg-country="BR" tvg-language="Português" group-title="Variedades",Band News
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" tvg-country="BR" tvg-language="Português" group-title="Variedades",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTY1Nzg1NywibmJmIjoxNzk1NjU3ODU3LCJleHAiOjE3OTgyNDk4NTcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImEzZTQ2N2IzLTQ4NTQtNDMxMi1hY2E3LWYyMTFmZTJmNDZhNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xkyvJj9z1dtLUm9jWFMTwpBQUB3iD4DMpX21SvIMl8g&uid=a3e467b3-4854-4312-aca7-f211fe2f46a6
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s2/playlist_nova-b.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTcxMTM2NSwibmJmIjoxNzk1NzExMzY1LCJleHAiOjE3OTgzMDMzNjUsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImM3MWJjNThhLTg5MmUtNGZjOC04NTU1LTkwMWNiYWI4OGNmNiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.x32WlgnXaqOH6LHDxbWmfMEzClEZS5172mWH2LuGQkA&uid=c71bc58a-892e-4fc8-8555-901cbab88cf6
 #EXTINF:-1 tvg-id="37af6c65c041" tvg-name="BDC TV (TV Á Crítica)" tvg-country="BR" tvg-language="Português" group-title="Variedades",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="9635f71c84ad" tvg-name="Bem Mais Tv" tvg-country="BR" tvg-language="Português" group-title="Variedades",Bem Mais Tv
@@ -2385,14 +2451,20 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Variedades",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="50c5f94c8109" tvg-name="Rede Boas Novas" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="b4794e374b2d" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="a88dcc598d66" tvg-name="Rede CNT" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede CNT
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Q1fYBx8V-1kr80koreSfglCKzBDJ_tDCcSFRbPWRUv266ejnZghyT2By6aDD2RGczLtx8pWmYFgNbcfPLFmqpXHdoe1kITBNF9B5YhwvSjJqEXvwlVYCHjDH4D8MPmSJHJKGdmKUFF172eAsFsWcBYFaVFVfEMMPlbR1eYNVzWGp-Xx7y1RBsQLaohy9NVd-)/cloud/3/x9yjqle/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(864puY7g3ehDAAkOW7r4pS8LRwWLfmy3R7u0nx6w2GB2J-h5e3XtBh1dsrJRDvAx2fNCnIdpLiU2M1jOWN94QRNrt9tqPEGJXJnzKiIfA8En3-sK1eQdHb3mF42nMyG1V3NY2sQ9FNCsnSCzuwBGGu0cy8LW3nCcPjFDgh46obpMVfsg9f-GYeot4oDxhxWe)/cloud/3/x9yjqle/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000
+#EXTINF:-1 tvg-id="bd518cd57147" tvg-name="Rede CNT Belém" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede CNT Belém
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KTUcuHvBj6h_3NZOFVhNhaZGt6i0-cfK5MdcI6ReZupr0ACPa6EGOpjadNvPVHDiNtQroNUSViIJbnDs70kvkHDSHZIQBv6ue9whCX5jl-9-ph70AOUZTZS79lE4bpOGvX2XTrQ5BnT1ODuZyT0KO1oDOcymICWt_SZm7aTMyrUW8G54RIKhWVolqYCRntvG)/cloud/3/x9zdt9s/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A23%2B0000
 #EXTINF:-1 tvg-id="3f36cf97505e" tvg-name="Rede CNT Rio" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede CNT Rio
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PpVObdwkgb27x-NPWVcY71QQ1UdgR7YELj9_ysRLp84TgPvIU74eeh_iBZZvEHfrTlST4cwk_4sOdPpIsTCq8obozGP3YYJPu92O1r7sVxNuAp93rec_5oQWSCvY9CjVb6s1TdgVSt3nJBqBP7tYcKWmURTSG5RcHVZd8wLqbqZy-ffAXhJSZT6DBjY38VFe)/cloud/3/x9zentk/s/live-aac-128.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Iy8BJX9fdjY9q54mJaqyWjCSt2vEhx1ikVyxViO7VntKxc8H2YI0LiPYVQDdl_AxMxW9I6ZQOSP1dfmEIuJ3drluj8uA7YIhP78gm6EvXYxia48Ewh7gSBfYhku6NzETg6ZdJs391z-VPl5MAWAToJEIaFBqCN-2Zd3-ERBnT6_4jKnvEFAqIbVmnaIeASw7)/cloud/3/x9zentk/s/live-aac-64.m3u8?startdate=2026-06-15T16%3A41%3A18%2B0000
+#EXTINF:-1 tvg-id="190d353e2245" tvg-name="Rede CNT RS" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede CNT RS
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Bh6Vn0MBRsBQCUwR-xpS_m6vWHw0fYZl_a3mvhsf1AHfn1zTox1nR2vucNNLo_J0mQFPmbiOhV7O9UyaCOdHOkam_r5kpweU-nwr-tQ0ewTIKkRqE4KHdg6KDl8CCQeggKrqGJE-gadjtRSxMh2wcYXFb8S2Kx5_v3KAEoiNefa7r-Lgv2CVdJwvfVQ72qEw)/cloud/3/x9zedv8/s/live-h264-480.m3u8?startdate=2026-06-15T16%3A41%3A07%2B0000
 #EXTINF:-1 tvg-id="f02d14ded39a" tvg-name="Rede Meio Norte" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="c6233215ca3b" tvg-name="Rede Minas" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Minas
