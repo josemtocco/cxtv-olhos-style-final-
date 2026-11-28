@@ -185,7 +185,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/sc",
       "status": 200,
-      "bytes": 117815,
+      "bytes": 117838,
       "fonte": "http",
       "descobertos": 24,
       "esperados_no_site": 39
@@ -297,7 +297,7 @@
     {
       "url": "https://www.cxtv.com.br/tv/estados/am",
       "status": 200,
-      "bytes": 103816,
+      "bytes": 103814,
       "fonte": "http",
       "descobertos": 10,
       "esperados_no_site": 10
@@ -3582,5 +3582,5 @@
       "total_estado": 16
     }
   ],
-  "atualizado_em": "2026-11-28T01:21:27Z"
+  "atualizado_em": "2026-11-28T15:19:20Z"
 }
